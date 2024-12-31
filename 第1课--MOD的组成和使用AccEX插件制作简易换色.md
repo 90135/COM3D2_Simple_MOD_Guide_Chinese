@@ -63,13 +63,16 @@
 
 以官方的 dress118_stkg_i_.menu 为例
 
-按 Shift + I 打开 PropMyItem
+按 Shift + I 打开 PropMyItem InoryS 版
 
 在袜子栏搜索 118，我有这么多是因为我有 MOD
 
 ![图片](https://github.com/user-attachments/assets/abc4759c-9b2f-4d25-9235-18bd5d07e79a)
 
-装备上后在控制台可以看见这个物品的 menu 名称
+装备上后在控制台可以看见这个物品的 menu 名称（只有 InoryS 版才会显示）
+
+如果你不想换，在安装 SybarisArcEditor 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。
+
 
 由于是官方物品，我们需要使用 SybarisArcEditor 从游戏文件内提取这个袜子的相关文件
 
@@ -78,6 +81,7 @@
 打开后会很卡，耐心等一会
 
 然后你会发现 dress118_stkg 什么都搜不到
+
 那是因为这是从 CM3D2 联动过来的，这就是为什么有的东西你找不到
 
 去 CM3D2 那边打开 SybarisArcEditor
