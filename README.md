@@ -32,5 +32,15 @@
    - 3.3.21 使用最新版
    - https://github.com/luvoid/Blender-CM3D2-Converter/releases
   
+ - AlwaysColorChangeEx 插件，简称 AccEX
+   - https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85
+
+ - PropMyItem 插件，Inory-S 版
+   - 比其他版本多了个查看 accVag 和 accAnl 分类的功能
+   - https://github.com/InoryS/COM3D2.PropMyItem.Plugin
+
+
+## 其他参考资料
+ - https://seesaawiki.jp/com3d2mod_wiki/
 
 
