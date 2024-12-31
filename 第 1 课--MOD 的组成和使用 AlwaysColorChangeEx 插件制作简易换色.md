@@ -168,6 +168,13 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 ![图片](https://github.com/user-attachments/assets/842f4a42-5f16-4537-b622-89b980278cf1)
 
+然后我们发现后面的贴图并没有被画
+
+取决于光照方向，非光照面会使用 _ShadowTex 中的贴图，我们没有修改，所以不会有变化
+
+![图片](https://github.com/user-attachments/assets/634f4663-6e93-4c04-93a2-fa69e28f7850)
+
+
 恭喜你已经学会了 MOD 的基本组成
 
 ### 对别人的 MOD 进行修改
