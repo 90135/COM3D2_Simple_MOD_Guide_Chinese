@@ -1,4 +1,4 @@
-# 第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色
+# 第 1 课，MOD 的组成和使用 AccEX 插件制作简易换色
 
 ## MOD 的组成
 
