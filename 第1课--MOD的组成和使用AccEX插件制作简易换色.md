@@ -108,12 +108,10 @@
 
 随着 Modloader 和 MaidLoader 的出现，它允许我们直接以官方物品的格式来加载物品，因此官方有什么功能，我们就可以使用什么功能。
 
-
+<br>
 .menu 其实就是个 txt 文件，只不过内部要遵照一定的格式
 
-目录说的 English Modding Tools Pack 里面的 Core Modding Tools (English)
-
-里面有一些看了名字就知道是做什么的用的东西
+所以我们需要一些功能，在目录的 English Modding Tools Pack 里面的 Core Modding Tools (English)，有各种工具
 
 #### menu
 
@@ -126,11 +124,13 @@
 ![图片](https://github.com/user-attachments/assets/fc89861f-debb-47e4-bb63-54e443bf35e6)
 
 可以看到 menu 的基本组成
+<br>
 
 menu 文件详细请参考
 
 https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
+<br>
 
 我们把东西都改个名，比如都改成 learn
 
@@ -141,6 +141,7 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 ![图片](https://github.com/user-attachments/assets/b278da2a-8430-4f6b-a1d1-64f55c8b9528)
 
 
+<br>
 
 然后打开 menu 编辑，编辑指向对应文件
 
@@ -158,6 +159,7 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 （所以可以通过添加多个 .meun 和 .mate 组合来制作换色 mod 而不需要修改 .model）
 
+<br>
 
 用 mate 编辑器或者转成 txt 打开 .mate 文件
 
@@ -169,7 +171,7 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 ![图片](https://github.com/user-attachments/assets/f849350f-f2fe-4de6-9974-64b36b1b743f)
 
-
+<br>
 
 mate文件详情请参考
 
@@ -210,6 +212,7 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 ![图片](https://github.com/user-attachments/assets/634f4663-6e93-4c04-93a2-fa69e28f7850)
 
+<br>
 
 恭喜你已经学会了 MOD 的基本组成
 
