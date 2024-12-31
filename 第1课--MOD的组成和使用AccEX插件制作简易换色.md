@@ -105,18 +105,21 @@
 ### 修改官方物品
 
 很久以前， KISS 官方推出了 .mod 格式，现在已经淘汰了
-随着 Modloader 和 MaidLoader 的出现，它允许我们直接以官方物品的格式来加载物品
+
+随着 Modloader 和 MaidLoader 的出现，它允许我们直接以官方物品的格式来加载物品，因此官方有什么功能，我们就可以使用什么功能。
+
 
 .menu 其实就是个 txt 文件，只不过内部要遵照一定的格式
 
 目录说的 English Modding Tools Pack 里面的 Core Modding Tools (English)
+
 里面有一些看了名字就知道是做什么的用的东西
 
 #### menu
 
 用工具转成 txt 或用编辑器打开 .menu
 
-这里用我自己做的 menu 编辑器打开，本来我都是用某 D 的工具，但是他禁止外国人使用。
+这里用我自己做的 menu 编辑器打开，本来我都是用某 D 的工具，但是他禁止外国人使用，不好分发。
 
 为了大家有相对好用的工具，只好自己做了
 
@@ -125,7 +128,9 @@
 可以看到 menu 的基本组成
 
 menu 文件详细请参考
+
 https://seesaawiki.jp/com3d2mod_wiki/d/menu
+
 
 我们把东西都改个名，比如都改成 learn
 
@@ -135,6 +140,8 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 ![图片](https://github.com/user-attachments/assets/b278da2a-8430-4f6b-a1d1-64f55c8b9528)
 
+
+
 然后打开 menu 编辑，编辑指向对应文件
 
 ![图片](https://github.com/user-attachments/assets/b3895ac4-c11a-4f96-8a8a-c95e5553a4d0)
@@ -143,22 +150,29 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 那么你会问其他的 2 个 .tex 是在哪里指定的？
 
-答案是，可以在 .model 或 .mate 里指定，
+答案是，可以在 .model 或 .mate 里指定
 
 .meta 可有可无，如果你指定了 .mate，那么就会覆盖 .model 原版指定的内容
 
+这里有 .meta 所以我们主要关注 .meta
+
 （所以可以通过添加多个 .meun 和 .mate 组合来制作换色 mod 而不需要修改 .model）
+
 
 用 mate 编辑器或者转成 txt 打开 .mate 文件
 
 ![图片](https://github.com/user-attachments/assets/ca1510ea-bd92-4eb7-97df-4412c215dfe5)
 
 改成对应贴图名字，但不带 .tex
+
 那个路径没什么用，可以忽略，随便填个东西就行了(COM3D2 2.06 +)
 
 ![图片](https://github.com/user-attachments/assets/f849350f-f2fe-4de6-9974-64b36b1b743f)
 
+
+
 mate文件详情请参考
+
 https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 #### tex
