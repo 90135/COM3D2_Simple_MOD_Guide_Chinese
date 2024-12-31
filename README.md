@@ -23,9 +23,8 @@
    - https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA
   
  - Blender
-   - 一般你需要 2 个版本，推荐 2.39.18 和 3.3.21
+   - 推荐 3.3.21 版本，如果你要编辑高模，3.3 太卡的话，可以用 2.39.18，但是会有一些 bug
    - https://download.blender.org/release/
-   - https://download.blender.org/release/Blender2.93/blender-2.93.18-windows-x64.zip
    - https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip
   
  - Blender 插件
