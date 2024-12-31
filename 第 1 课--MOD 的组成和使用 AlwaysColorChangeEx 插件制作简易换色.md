@@ -250,4 +250,12 @@ RQ 是 renderQueue
 
 ## 作业
 
-把 dress188_stkg 换回原贴图，调成蓝色，并改为透明，最后导出为一套 MOD
+* 将 `dress188_stkg` 恢复原贴图。
+* 将贴图颜色改为蓝色。
+* 设置为透明材质并调整 `RQ` 顺序。
+* 导出为完整的 MOD 文件。
+
+大致效果
+
+![图片](https://github.com/user-attachments/assets/f621329d-5c1f-45bd-a14f-704cc13023e3)
+
