@@ -8,8 +8,8 @@
 
 ## 目录
 
- - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC%201%20%E8%AF%BE--MOD%20%E7%9A%84%E7%BB%84%E6%88%90%E5%92%8C%E4%BD%BF%E7%94%A8%20AlwaysColorChangeEx%20%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E7%AE%80%E6%98%93%E6%8D%A2%E8%89%B2.md)
-
+ - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC1%E8%AF%BE--MOD%E7%9A%84%E7%BB%84%E6%88%90%E5%92%8C%E4%BD%BF%E7%94%A8AccEX%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E7%AE%80%E6%98%93%E6%8D%A2%E8%89%B2.md)
+ - [第 2 课，初次修改模型之简易修改袜子穿模](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC2%E8%AF%BE--%E5%88%9D%E6%AC%A1%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%AE%80%E6%98%93%E4%BF%AE%E6%94%B9%E8%A2%9C%E5%AD%90%E7%A9%BF%E6%A8%A1.md)
 
 ## 用到的工具
 
