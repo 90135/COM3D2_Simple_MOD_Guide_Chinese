@@ -12,6 +12,10 @@
  - [第 2 课，初次修改模型之简易修改袜子穿模](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC2%E8%AF%BE--%E5%88%9D%E6%AC%A1%E4%BF%AE%E6%94%B9%E6%A8%A1%E5%9E%8B%E4%B9%8B%E7%AE%80%E6%98%93%E4%BF%AE%E6%94%B9%E8%A2%9C%E5%AD%90%E7%A9%BF%E6%A8%A1.md)
  - [第 3 课，移植小物件之特定于妹抖的东西](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC3%E8%AF%BE--%E7%A7%BB%E6%A4%8D%E5%B0%8F%E7%89%A9%E4%BB%B6%E4%B9%8B%E7%89%B9%E5%AE%9A%E4%BA%8E%E5%A6%B9%E6%8A%96%E7%9A%84%E4%B8%9C%E8%A5%BF.md)
 
+## Discord
+
+https://discord.gg/XQVfcJWbPp
+
 ## 用到的工具
 
  - English Modding Tools Pack 英文改装工具包
