@@ -1,6 +1,4 @@
-# 第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色 
-
-
+# 第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色
 
 ## MOD 的组成
 
@@ -10,29 +8,38 @@
 
 Shader（着色器）Material（材质） Texture（纹理）Texture Map（贴图）
 
-
 简单来说
 
- - 模型，决定物体的形状，点线面信息，实际的点线面称为网格。COM3D2 里面是 .model 文件（.model 内可以包含材质和着色器信息，因此可以省略 .mate 文件）
- - 贴图，决定物体的颜色等，就是一张图片，COM3D2 里面是 .tex 文件（png 图片转的）
- - 材质，决定贴图怎么渲染到物体上，COM3D2 里面是 .mate 文件
- - 着色器，决定怎么渲染物体，COM3D2 里面有带不带轮廓线、是不是透明之类的着色器，在 .mate 里面指定。
-
+- 模型，决定物体的形状，点线面信息，实际的点线面称为网格。COM3D2 里面是 .model 文件（.model 内可以包含材质和着色器信息，因此可以省略 .mate 文件）
+- 贴图，决定物体的颜色等，就是一张图片，COM3D2 里面是 .tex 文件（png 图片转的）
+- 材质，决定贴图怎么渲染到物体上，COM3D2 里面是 .mate 文件
+- 着色器，决定怎么渲染物体，COM3D2 里面有带不带轮廓线、是不是透明之类的着色器，在 .mate 里面指定。
 
 一些 COM3D2 才有的东西
- - .menu 文件，菜单，你在物品栏里面看到的东西都是一个个menu，用来指定这物体用哪个模型，哪个材质等等。
- - .pmat 用于指定渲染顺序，只有用透明着色器的时候才用得到
- - .phy 物理信息文件，如果你想搞一些有物理效果的东西，需要使用这个
- - .col 碰撞箱信息，如果你想搞一些有物理效果的东西，需要使用这个
- - .psk 裙子专用物理信息文件
+
+- .menu 文件，菜单，你在物品栏里面看到的东西都是一个个menu，用来指定这物体用哪个模型，哪个材质等等。
+- .pmat 用于指定渲染顺序，只有用透明着色器的时候才用得到
+- .phy 物理信息文件，如果你想搞一些有物理效果的东西，需要使用这个
+- .col 碰撞箱信息，如果你想搞一些有物理效果的东西，需要使用这个
+- .psk 裙子专用物理信息文件
 
 一个最精简的 mod 只需要 .menu、.tex、.model
-
 
 理解组成部分以后
 我们通过案例来加深对 MOD 组成的理解
 
+## 提示
 
+在做 mod 的过程中，经常会有修改一点，在游戏里面查看更改效果的需求，然而你肯定不想重新启动游戏。
+准备好你的 .menu 和需要的文件
+
+一旦游戏加载，它就会记住文件名，而不会记住内容。
+所以你可以直接在游戏内修改，对应的 .menu 文件、.mate 文件、.tex 文件、.model 文件
+然后换到别的物品，再换回来你的，你就会发现它读取了最新的内容。
+(图标不能重新加载)
+
+但是不能新增文件，因为 BUG 很多。
+虽然新增的文件通过 MaidLoader 的刷新功能也能加载进来。
 
 ## 对官方物品进行修改
 
@@ -73,7 +80,6 @@ Shader（着色器）Material（材质） Texture（纹理）Texture Map（贴�
 
 ![图片](https://github.com/user-attachments/assets/6ae375de-212f-4868-9ae8-7127e42d9939)
 
-
 ### 修改官方物品
 
 很久以前， KISS 官方推出了 .mod 格式，现在已经淘汰了
@@ -107,11 +113,9 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 ![图片](https://github.com/user-attachments/assets/b278da2a-8430-4f6b-a1d1-64f55c8b9528)
 
-
 然后打开 menu 编辑，编辑指向对应文件
 
 ![图片](https://github.com/user-attachments/assets/b3895ac4-c11a-4f96-8a8a-c95e5553a4d0)
-
 
 #### mate
 
@@ -123,11 +127,9 @@ https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 （所以可以通过添加多个 .meun 和 .mate 组合来制作换色 mod 而不需要修改 .model）
 
-
 用 mate 编辑器或者转成 txt 打开 .mate 文件
 
 ![图片](https://github.com/user-attachments/assets/ca1510ea-bd92-4eb7-97df-4412c215dfe5)
-
 
 改成对应贴图名字，但不带 .tex
 那个路径没什么用，可以忽略，随便填个东西就行了(COM3D2 2.06 +)
@@ -145,7 +147,6 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 打开 mod_learn.tex 用你最爱的图片编辑器编辑一下
 
-
 作为示例，我们这里乱画一点东西
 
 ![图片](https://github.com/user-attachments/assets/06ac51a8-9b8b-4133-a90d-0c7f5b569a30)
@@ -155,7 +156,6 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 同理 mod_learn_i_.tex 这个是我们在 menu 里面指定的图标，也是画点东西在上面
 
 ![图片](https://github.com/user-attachments/assets/5998590b-a56f-4965-8df2-310817490638)
-
 
 #### 进游戏
 
@@ -168,16 +168,11 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 ![图片](https://github.com/user-attachments/assets/842f4a42-5f16-4537-b622-89b980278cf1)
 
-
 恭喜你已经学会了 MOD 的基本组成
-
-
 
 ### 对别人的 MOD 进行修改
 
 同理，只不过不需要提取了罢了
-
-
 
 ## 使用 AlwaysColorChangeEx
 
@@ -187,15 +182,15 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 ![图片](https://github.com/user-attachments/assets/ebb230ac-49a0-49cc-b886-ff9b4fdee61d)
 
-
-![图片](https://github.com/user-attachments/assets/599b5ebb-66ba-4888-9f10-fde44d85c58b)
+color 只会对 _MainTex 生效
 
 ![图片](https://github.com/user-attachments/assets/270ecffc-2901-4a5c-86b3-c1bdcb844dde)
 
 ![图片](https://github.com/user-attachments/assets/7f6202c8-4979-441b-8b0a-829f1d2b6bea)
 
-![图片](https://github.com/user-attachments/assets/864b107f-8cc4-48ff-8347-477770026c97)
+点纹理更改按钮
 
+![图片](https://github.com/user-attachments/assets/864b107f-8cc4-48ff-8347-477770026c97)
 
 点这个就能更换贴图了
 可以直接读 .png 格式的
@@ -205,16 +200,22 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 你可以自己调节各种参数尝试,，然后点击 menu 导出就能导出了
 会导出到 MOD/ACC 文件夹
 
+#### 素材包
+
+本人提供的 MOD Thicc_Socks_109 中 提供了许多贴图，你可以自己更换尝试，非常有助于理解
+
+- https://zodgame.xyz/forum.php?mod=viewthread&tid=470514&extra=page%3D1
+- https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA
 
 ### 使用 AlwaysColorChangeEx 来修改 MOD
 
 #### 修改着色器
+
 如图就是着色器，你可以自己试试
 
 比如我们这里选择透明着色器，但是发现腿没了
 
 ![图片](https://github.com/user-attachments/assets/09cad8a5-af87-491e-9ba3-9734b721ca32)
-
 
 还记得 menu 文件里的   消去node設定開始  吗
 
@@ -239,7 +240,6 @@ RQ 是 renderQueue
 
 ![图片](https://github.com/user-attachments/assets/4a77035e-a774-4ad5-9c72-ca01c4e216bb)
 
-
 ![图片](https://github.com/user-attachments/assets/eba40c63-f0fa-4f79-9292-b11da2fe47e0)
 
 鞋子我也调成透明材质了
@@ -248,22 +248,6 @@ RQ 是 renderQueue
 
 ![图片](https://github.com/user-attachments/assets/416ff4bb-8e09-453d-859c-341c34a76470)
 
+## 作业
 
-
-## 提示
-在做 mod 的过程中，经常会有修改一点，在游戏里面查看更改效果的需求，然而你肯定不想重新启动游戏。
-准备好你的 .menu 和需要的文件
-
-一旦游戏加载，它就会记住文件名，而不会记住内容。
-所以你可以直接在游戏内修改，对应的 .menu 文件、.mate 文件、.tex 文件、.model 文件
-然后换到别的物品，再换回来你的，你就会发现它读取了最新的内容。
-(图标不能重新加载)
-
-但是不能新增文件，因为 BUG 很多。
-虽然新增的文件通过 MaidLoader 的刷新功能也能加载进来。
-
-
-
-
-
-
+把 dress188_stkg 换回原贴图，调成蓝色，并改为透明，最后导出为一套 MOD
