@@ -224,6 +224,8 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 我们可以使用 AlwaysColorChangeEx 轻松完成刚刚的操作和编辑 mate
 
+默认快捷键 F12
+
 ### 和 mate 文件的对应关系
 
 ![图片](https://github.com/user-attachments/assets/ebb230ac-49a0-49cc-b886-ff9b4fdee61d)
