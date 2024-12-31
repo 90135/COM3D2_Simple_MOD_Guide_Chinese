@@ -60,9 +60,9 @@
 
 ### 提取官方物品
 
-按 F12 打开 AlwaysColorChangeEx
-
 以官方的 dress118_stkg_i_.menu 为例
+
+#### 找到文件名
 
 按 Shift + I 打开 PropMyItem InoryS 版
 
@@ -72,10 +72,13 @@
 
 装备上后在控制台可以看见这个物品的 menu 名称（只有 InoryS 版才会显示）
 
-如果你不想换，在安装 SybarisArcEditor 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。
+如果你不想换，在安装 SybarisArcEditor（在英文工具包里） 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。
 
+#### 提取文件
 
-由于是官方物品，我们需要使用 SybarisArcEditor 从游戏文件内提取这个袜子的相关文件
+由于是官方物品，我们需要使用 SybarisArcEditor（在英文工具包里）  从游戏文件内提取这个袜子的相关文件
+
+如果你没安装，把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了
 
 ![图片](https://github.com/user-attachments/assets/68c9f72a-2dcc-4dc6-80ad-0bcdbd06deec)
 
