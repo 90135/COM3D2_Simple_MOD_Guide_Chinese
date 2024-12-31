@@ -16,8 +16,8 @@
  - 还有更好用的工具，比如 夜勤D ＠YakinKazuya 的工具，需要使用日本家庭 IP 访问，且禁止非日本人使用
    - https://ykndsnest.work/yknDLoader/
   
- - 本人制作的简陋工具，未经大量测试可能有 BUG
-   - https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main
+ - 本人制作的简陋工具，未经大量测试，可能有 BUG
+   - https://github.com/90135/COM3D2_MOD_EDITOR
   
  - 本人的 MOD，可以当素材使用
    - https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA
