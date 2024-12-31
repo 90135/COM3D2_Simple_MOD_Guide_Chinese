@@ -6,6 +6,10 @@
 
 如有错误恳请各位斧正
 
+## 目录
+
+ - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E7%AC%AC%201%20%E8%AF%BE--MOD%20%E7%9A%84%E7%BB%84%E6%88%90%E5%92%8C%E4%BD%BF%E7%94%A8%20AlwaysColorChangeEx%20%E6%8F%92%E4%BB%B6%E5%88%B6%E4%BD%9C%E7%AE%80%E6%98%93%E6%8D%A2%E8%89%B2.md)
+
 
 ## 用到的工具
 
