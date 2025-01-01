@@ -1,3 +1,9 @@
+gitbook 上看这个会迷惑
+
+点这里看 [https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
+
+文件在上面
+
 # COM3D2.AlwaysColorChangeEx.Plugin.dll
 不知道从何而来的修改版 COM3D2.AlwaysColorChangeEx.Plugin 插件，比市面上的版本支持的着色器更多。
 
