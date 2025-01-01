@@ -36,10 +36,14 @@ https://discord.gg/XQVfcJWbPp
    - https://download.blender.org/release/
    - https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip
   
- - Blender 插件
+ - Blender COM3D2 插件
    - 2.93.18 使用 luv.2022.09.16
    - 3.3.21 使用最新版
    - https://github.com/luvoid/Blender-CM3D2-Converter/releases
+
+ - Blender MMD 插件
+   - 3.3.21 使用 2.8.1 版本
+   - https://github.com/UuuNyaa/blender_mmd_tools/releases
   
  - AlwaysColorChangeEx 插件，简称 AccEX
    - https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85
