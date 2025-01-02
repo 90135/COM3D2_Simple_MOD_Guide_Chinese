@@ -15,7 +15,7 @@
 平时基本把 Texture 和 Texture Map 都叫做贴图。
 
 简单来说：
-1. **模型（Model）**：模型是一个可以包含多种信息的文件，其中可以包含物体的点线面信息（称为网格）定义物体形状，包含材质信息等。在 COM3D2 中对于 `.model` 文件，且 `.model` 文件可以包含材质和着色器等信息，因此可以省略 `.mate` 文件。
+1. **模型（Model）**：模型是一个可以包含多种信息的文件，其中可以包含物体的点线面信息（称为网格）定义物体形状，包含材质信息等。在 COM3D2 中是 `.model` 文件，且 `.model` 文件可以包含材质和着色器等信息，因此可以省略 `.mate` 文件。
 2. **贴图（Texture）**：定义物体的表面细节，例如颜色和质感。COM3D2 中对应 `.tex` 文件（本质是 PNG 图片的转换）。
 3. **材质（Material）**：描述贴图如何渲染到模型上。COM3D2 中使用 `.mate` 文件（`Material` 的缩写）。
 4. **着色器（Shader）**：决定物体的渲染方式，例如是否有轮廓线、透明效果等。在 `.mate` 文件中指定。
@@ -80,6 +80,22 @@
    - 但不推荐使用，因为有时候加载了并不能生效，或是会出现其他问题。
 
 通过以上方法，你可以高效地修改和测试 MOD，而无需频繁重启游戏。
+
+## MOD 是如何加载的
+
+游戏本身是有 MOD 支持的，把 MOD 放到 MOD 文件夹就可以加载了。
+
+很久以前， KISS 官方推出了 .mod 格式，但现在已经淘汰了。
+
+然后出现了 [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件，它允许我们直接加载官方物品格式的文件。(.menu .mate 之类的)
+
+因此官方物品有什么功能，我们就可以使用什么功能，不用再使用官方功能受限的 .mod。
+
+注：Modloader 也已经淘汰了，请使用 [MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader) 它们功能是一样的。
+
+MaidLoader 还有一些新功能，
+ - 如果你在 MOD 文件夹内放了个和官方文件一样文件名的文件，那么这个物品会覆盖官方文件。
+ - 详情请参考 [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
 
 ## 对官方物品进行修改
 
