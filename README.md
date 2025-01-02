@@ -77,10 +77,10 @@
  - ExtendedErrorHandling（捕获错误，出现错误时不崩游戏，必装）
    - https://github.com/krypto5863/COM3D2.ExtendedErrorHandling
 
- - CatchUnityEventExceptions
+ - CatchUnityEventExceptions（确保unity订阅可以执行）
    - https://github.com/BepInEx/BepInEx.Utility
 
- - SuppressGetTypesErrorsPatcher
+ - SuppressGetTypesErrorsPatcher（确保反射失败不会崩溃）
    - https://github.com/BepInEx/BepInEx.Utility
 
 ### 素材相关
