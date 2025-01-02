@@ -101,8 +101,9 @@
 
 注：Modloader 也已经淘汰了，请使用 [MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader) 它们的基础功能是一样的，但是 MaidLoader 更强大。
 
-MaidLoader 还有一些新功能，
- - 详情请参考 [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
+更详细的信息请参考
+ - [https://github.com/Neerhom/COM3D2.ModLoader](https://github.com/Neerhom/COM3D2.ModLoader)
+ - [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
 
 
 ## 对官方物品进行修改
