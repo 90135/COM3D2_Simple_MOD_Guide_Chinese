@@ -83,19 +83,28 @@
 
 ## MOD 是如何加载的
 
-游戏本身是有 MOD 支持的，把 MOD 放到 MOD 文件夹就可以加载了。
+其实游戏官方是有 MOD 支持的。
 
-很久以前， KISS 官方推出了 .mod 格式，但现在已经淘汰了。
+这个官方支持就是 `.mod`  格式的文件，但是由于官方 MOD 的功能比较受限，出现了 MOD 加载器插件。
 
-然后出现了 [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件，它允许我们直接加载官方物品格式的文件。(.menu .mate 之类的)
+不过这个 “官方支持” 并不算非常全面，许多高级需求（如覆盖已有文件、动态刷新等）必须通过第三方插件才能实现。
 
-因此官方物品有什么功能，我们就可以使用什么功能，不用再使用官方功能受限的 .mod。
+<br>
 
-注：Modloader 也已经淘汰了，请使用 [MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader) 它们功能是一样的。
+所以呢出现了  [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件
+
+它直接拦截官方读取文件的函数，让游戏在访问文件系统时先检查 ModLoader 的目录与缓存，从而允许我们直接加载几乎任何官方物品格式的文件。(.menu .mate 之类的)
+
+因此官方物品有什么功能，我们就可以使用什么功能，不用再使用官方功能受限的 `.mod` 格式。
+
+因此做 MOD 的底层逻辑，其实就是对官方物品进行逆向，学习官方是怎么做的，从而做出自己的物体。
+
+注：Modloader 也已经淘汰了，请使用 [MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader) 它们的基础功能是一样的，但是 MaidLoader 更强大。
 
 MaidLoader 还有一些新功能，
  - 如果你在 MOD 文件夹内放了个和官方文件一样文件名的文件，那么这个物品会覆盖官方文件。
  - 详情请参考 [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
+
 
 ## 对官方物品进行修改
 
