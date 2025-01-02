@@ -69,5 +69,6 @@
 
 ## 其他参考资料
  - [https://seesaawiki.jp/com3d2mod_wiki/](https://seesaawiki.jp/com3d2mod_wiki/)
+ - [https://discord.gg/custommaid](https://discord.gg/custommaid)
 
 
