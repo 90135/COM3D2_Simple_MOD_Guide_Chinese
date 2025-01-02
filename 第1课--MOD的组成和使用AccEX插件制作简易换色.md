@@ -105,6 +105,20 @@
  - [https://github.com/Neerhom/COM3D2.ModLoader](https://github.com/Neerhom/COM3D2.ModLoader)
  - [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
 
+<details>
+
+<summary>Unity 修改届背后的男人</summary>
+
+如果你在任意工具链往下挖掘，你会发现几乎所有基础代码都是由 https://github.com/ghorsington 创建的
+包括 BepinEX、COM3D2.i18nEx 、CM3D2.MaidFiddler、CM3D2.YATranslator、IMGUITranslationLoader、UmaiUme
+
+等等都是马男为 COM3D2 创建的……
+
+</details>
+
+
+
+
 
 ## 对官方物品进行修改
 
