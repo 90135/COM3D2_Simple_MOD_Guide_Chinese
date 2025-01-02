@@ -193,9 +193,7 @@
 可以看到 menu 的基本组成
 <br>
 
-menu 文件详细请参考
-
-https://seesaawiki.jp/com3d2mod_wiki/d/menu
+menu 文件详细请参附录，或 https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 <br>
 
