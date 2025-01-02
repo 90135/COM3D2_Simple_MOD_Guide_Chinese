@@ -199,16 +199,17 @@ menu 文件详细请参附录，或 https://seesaawiki.jp/com3d2mod_wiki/d/menu
 
 我们把东西都改个名，比如都改成 learn
 
-注意文件不能以 mod 开头，不然你会发现它读不了
+注意文件名不能以 mod 开头，不然你会发现它读不了
 
 (MODフォルダにMODファイルが見つかりません。)
 
 <details>
 
-<summary>因为</summary>
+<summary>因为和官方 .mod 格式冲突</summary>
 
 ![图片](https://github.com/user-attachments/assets/ca35929d-6630-4777-a730-a67512fc630a)
 
+![图片](https://github.com/user-attachments/assets/e85738d9-84f6-4f17-bddc-b0989d26d02c)
 
 </details>
 
