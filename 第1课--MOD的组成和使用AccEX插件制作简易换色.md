@@ -109,10 +109,15 @@
 
 <summary>Unity 修改届背后的男人</summary>
 
-如果你在任意工具链往下挖掘，你会发现几乎所有基础代码都是由 https://github.com/ghorsington 创建的
-包括 BepinEX、COM3D2.i18nEx 、CM3D2.MaidFiddler、CM3D2.YATranslator、IMGUITranslationLoader、UmaiUme
+如果你在任意工具链往下挖掘，你会发现几乎所有基础代码都是由 https://github.com/ghorsington 创建的（https://github.com/denikson）
 
-等等都是马男为 COM3D2 创建的……
+包括 BepinEX、UmaiUme、COM3D2.i18nEx 、CM3D2.MaidFiddler、CM3D2.YATranslator、IMGUITranslationLoader 等
+
+都是马男为 COM3D2 创建的……
+
+我们的马男为了玩 COM3D2 创建了整个工具链，太强大了马男
+
+而如今 BepinEX 等工具广泛用于其他游戏，包括隔壁的 ILLUSION。
 
 </details>
 
