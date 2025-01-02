@@ -32,6 +32,7 @@
 
 ## 用到的工具
 
+### MOD 工具
  - English Modding Tools Pack 英文改装工具包
    - [https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145](https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145)
    - [https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file](https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file)
@@ -44,7 +45,9 @@
   
  - 本人的 MOD，可以当素材使用
    - [https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA](https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA)
-  
+     
+### Blender 相关
+
  - Blender
    - 推荐 3.3.21 版本，如果你要编辑体型那种高模，3.3 太卡的话，可以用 2.39.18，但是会有一些 bug
    - [https://download.blender.org/release/](https://download.blender.org/release/)
@@ -58,13 +61,32 @@
  - Blender MMD 插件
    - 3.3.21 使用 2.8.1 版本
    - [https://github.com/UuuNyaa/blender_mmd_tools/releases](https://github.com/UuuNyaa/blender_mmd_tools/releases)
+
+### 插件相关
   
- - AlwaysColorChangeEx 插件，简称 AccEX
+ - AlwaysColorChangeEx 插件，简称 AccEX （MOD 制作工具）
    - [https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
 
- - PropMyItem 插件，Inory-S 版
+ - PropMyItem 插件，Inory-S 版（随时随地呼出物品菜单）
    - 比其他版本多了个查看 accVag 和 accAnl 分类的功能什么的
    - [https://github.com/InoryS/COM3D2.PropMyItem.Plugin](https://github.com/InoryS/COM3D2.PropMyItem.Plugin)
+
+#### 错误处理插件
+开发 MOD 时总会遇到错误，该装还得装
+
+ - ExtendedErrorHandling（捕获错误，出现错误时不崩游戏，必装）
+   - https://github.com/krypto5863/COM3D2.ExtendedErrorHandling
+
+ - CatchUnityEventExceptions
+   - https://github.com/BepInEx/BepInEx.Utility
+
+ - SuppressGetTypesErrorsPatcher
+   - https://github.com/BepInEx/BepInEx.Utility
+
+### 素材相关
+
+ - 本人的 MOD，可以当素材或者示例使用
+   - [https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA](https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA)
 
 
 ## 其他参考资料
