@@ -102,7 +102,6 @@
 注：Modloader 也已经淘汰了，请使用 [MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader) 它们的基础功能是一样的，但是 MaidLoader 更强大。
 
 MaidLoader 还有一些新功能，
- - 如果你在 MOD 文件夹内放了个和官方文件一样文件名的文件，那么这个物品会覆盖官方文件。
  - 详情请参考 [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
 
 
