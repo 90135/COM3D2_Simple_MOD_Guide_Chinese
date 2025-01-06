@@ -133,13 +133,17 @@
 
 #### 找到文件名
 
-按 Shift + I 打开 PropMyItem InoryS 版（如果你不想装这个，在安装 SybarisArcEditor（在英文工具包里） 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。）
+方法 1 ：按 Shift + I 打开 PropMyItem InoryS 版
 
 在袜子栏搜索 118，我有这么多是因为我有 MOD
 
 ![图片](https://github.com/user-attachments/assets/abc4759c-9b2f-4d25-9235-18bd5d07e79a)
 
 装备上后在控制台可以看见这个物品的 menu 名称（只有 InoryS 版才会显示）
+
+方法 2：在安装 SybarisArcEditor（在英文工具包里） 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。
+
+方法 3：用 AccEX 插件（F12）点导出时也会显示文件名.
 
 #### 提取文件
 
