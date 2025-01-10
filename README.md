@@ -75,13 +75,13 @@
 开发 MOD 时总会遇到错误，该装还得装
 
  - ExtendedErrorHandling（捕获错误，出现错误时不崩游戏，必装）
-   - https://github.com/krypto5863/COM3D2.ExtendedErrorHandling
+   - [https://github.com/krypto5863/COM3D2.ExtendedErrorHandling](https://github.com/krypto5863/COM3D2.ExtendedErrorHandling)
 
  - CatchUnityEventExceptions（确保unity订阅可以执行）
-   - https://github.com/BepInEx/BepInEx.Utility
+   - [https://github.com/BepInEx/BepInEx.Utility](https://github.com/BepInEx/BepInEx.Utility)
 
  - SuppressGetTypesErrorsPatcher（确保反射失败不会崩溃）
-   - https://github.com/BepInEx/BepInEx.Utility
+   - [https://github.com/BepInEx/BepInEx.Utility](https://github.com/BepInEx/BepInEx.Utility)
 
 ### 素材相关
 
@@ -91,6 +91,7 @@
 
 ## 其他参考资料
  - [https://seesaawiki.jp/com3d2mod_wiki/](https://seesaawiki.jp/com3d2mod_wiki/)
+ - [https://seesaawiki.jp/com3d2_kaizou_info/](https://seesaawiki.jp/com3d2_kaizou_info/)
  - [https://discord.gg/custommaid](https://discord.gg/custommaid)
 
 
