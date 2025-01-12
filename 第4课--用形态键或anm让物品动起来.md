@@ -168,15 +168,19 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ## 使用 .anm
 
+使用 .anm 其实比较高级，新手看不懂可以先跳过。但是怎么添加骨头也在这里教了一点，所以推荐看一下
+
 刚刚做的翅膀有一个明显的缺陷，用形态键做的动画，不能做到振翅，只能往一个方向移动（也不是不行，但是太过复杂）
 
-所以我们需要使用 .anm
+所以我们需要使用 .anm，这样就能想怎么动就怎么动了
 
 要做动画，我们最好给我们的翅膀添加上骨骼，方便操作
 
 你需要看一些 blender 动画教程，blender 操作我不会教的太详细。
 
 <br>
+
+### 添加骨头
 
 选中骨架，编辑模式点击添加骨骼，然后移动到合适的位置
 
@@ -201,7 +205,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 先导出
 
-#### 添加骨头后为什么导出后骨头就没了？（如何添加骨头）
+### 添加骨头后为什么导出后骨头就没了？（如何添加骨头）
 
 由于我们加了骨头，所以导出时数据源要选骨架
 
@@ -210,6 +214,8 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 ![图片](https://github.com/user-attachments/assets/90b96654-1350-4ed9-bbc5-fab2348a8afc)
 
 <br>
+
+### 制作动画
 
 这里推荐重启 blender，重新导入刚刚导出的模型，以此来检查是否正确
 
@@ -256,20 +262,51 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ![图片](https://github.com/user-attachments/assets/4d1c16c5-c44b-4cc9-a02a-e4904e4b0e0f)
 
-然后导出
+然后导出，这里导出为 learn_class3.anm
 
 ![图片](https://github.com/user-attachments/assets/261ecd9e-9eda-4cb6-b000-45c03da1d598)
 
-如果你没有为刚刚加的骨头设置父级，那么这里要取消掉
-
-当然，你最好设置父级，不然会乱动
-
-然后，选只导出关键帧就够了，第一个选项坏了
+如果你没有为刚刚加的骨头设置父级，那么这里要取消掉（我个人不太推荐新手设置父级什么的）
 
 ![图片](https://github.com/user-attachments/assets/d5ca1a86-6425-4618-bb09-b80a253915a4)
 
+<br>
+
+### 制作 menu
+
+在 menu 里加上这一段
+
+注意几个槽位要对应
+
+![图片](https://github.com/user-attachments/assets/7fdbb942-42b9-415a-a9f3-0620218f5339)
+
+
+```
+anime
+	accSenaka
+	learn_class3.anm
+	loop
+```
+
+<br>
+
+#### 进入游戏
+
+怎么在上下抖动？
 
 ![999](https://github.com/user-attachments/assets/5825823b-a72a-436a-9f80-15d3f3bd9ab1)
+
+因为刚刚我们选了只导出关键帧，COM3D2 的计算方式有点不一样，所以还是选烘培所有帧吧
+
+骨架这里，你可以都试试，有时候一个选项会不行。
+
+![图片](https://github.com/user-attachments/assets/cff53aee-0db6-402c-b8fd-4e869e9f718b)
+
+然后就正常啦
+
+![000](https://github.com/user-attachments/assets/913c1a82-d270-4574-9892-ca55225f0867)
+
+恭喜你已经学会了使用 .anm
 
 
 ## 作业
