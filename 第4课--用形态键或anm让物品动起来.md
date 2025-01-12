@@ -4,6 +4,7 @@
 ## 什么是 ShapeKey 形态键
 
 ShapeKey（形态键），是 3D 动画领域的一种通用技术。
+
 在 Blender 中称为 ShapeKey
 
 在其他 3D 软件中，这种技术可能会被称为不同的名称，比如：
@@ -29,9 +30,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 而形态键，被很多插件支持，我们可以随时随地进行调整。
 
-官方的腿粗细、欧派大小滑块，其实都是形态建。
-
-## 做一个最简单的动画
+## 使用形态键做一个最简单的动画
 
 拿出我们第三课做的翅膀，给翅膀做一个动画吧。
 
@@ -67,7 +66,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 就是这么简单，恭喜你已经学会了创建形态键和在游戏内使用。
 
 
-## 形态键的秘密
+### 形态键的秘密
 
 先跟着我做等下再告诉你为什么。
 
@@ -116,7 +115,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 幸好我们的 blender 插件提供了形态键转移功能。
 
-### 转移形态建
+### 转移形态键
 
 也可参阅：[https://github.com/Pain-Brioche/COM3D2-How-to/blob/master/Transfer_shapekeys_V2.md](https://github.com/Pain-Brioche/COM3D2-How-to/blob/master/Transfer_shapekeys_V2.md)
 
@@ -298,7 +297,7 @@ anime
 
 因为刚刚我们选了只导出关键帧，COM3D2 的计算方式有点不一样，所以还是选烘培所有帧吧
 
-骨架这里，你可以都试试，有时候一个选项会不行。
+骨架这里，你可以都试试，有时候一个选项会不行。（选项不是英文的看附录）
 
 ![图片](https://github.com/user-attachments/assets/cff53aee-0db6-402c-b8fd-4e869e9f718b)
 
