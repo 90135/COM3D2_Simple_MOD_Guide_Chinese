@@ -1,6 +1,5 @@
 # 第 4 课，用形态键或 .anm 让物品动起来
 
-
 ## 什么是 ShapeKey 形态键
 
 ShapeKey（形态键），是 3D 动画领域的一种通用技术。
@@ -42,7 +41,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ![图片](https://github.com/user-attachments/assets/d046a2a2-e2db-4da4-86fb-e72298dbde0d)
 
-添加后，切换到编辑模式，点击这个按钮，然后把值调整到 1，这时我们就可以调整模型了，形变，位移，都是可以的。
+添加后，切换到编辑模式，点击这个按钮，然后把值调整到 1，这时我们就可以调整模型了，形变，位移，都是可以的。（也有其他方法）
 
 ![图片](https://github.com/user-attachments/assets/7d4d56e0-6394-4079-b350-6bb2d1c02a45)
 
