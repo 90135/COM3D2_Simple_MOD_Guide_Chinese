@@ -75,6 +75,12 @@
    - 比其他版本多了个查看 accVag 和 accAnl 分类的功能什么的
    - [https://github.com/InoryS/COM3D2.PropMyItem.Plugin](https://github.com/InoryS/COM3D2.PropMyItem.Plugin)
 
+ - ShapekeyMaster（用于在游戏内调整形态键）
+   - [https://github.com/krypto5863/COM3D2.ShapekeyMaster](https://github.com/krypto5863/COM3D2.ShapekeyMaster)
+ 
+ - ShapeAnimator（用于在游戏内调整形态键）
+   - [https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin](https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin)
+
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
 
