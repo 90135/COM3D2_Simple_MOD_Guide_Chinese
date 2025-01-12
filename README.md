@@ -27,6 +27,8 @@
 
 ## 交流群
 
+欢迎提问
+
  - QQ 967954608 加群暗号 MOD
  - Discord https://discord.gg/XQVfcJWbPp
 
