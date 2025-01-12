@@ -108,6 +108,8 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 所以我们需要在衣服上做出同名形态键，来让衣服能够跟着身体一起变化（非官方身体有着更多的形态键）。
 
+除此意外的调节就是骨骼了，而不是形态键。
+
 <br>
 
 当然你可以选择手动去做，但是这样就太麻烦了不是吗？
@@ -170,6 +172,80 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 所以我们需要使用 .anm
 
+要做动画，我们最好给我们的翅膀添加上骨骼，方便操作
+
+你需要看一些 blender 动画教程，blender 操作我不会教的太详细。
+
+<br>
+
+选中骨架，编辑模式点击添加骨骼，然后移动到合适的位置
+
+![图片](https://github.com/user-attachments/assets/f541b660-cda6-45d9-bb13-6ebc4ef70e83)
+
+添加以后在这里选中就能移动了
+
+![图片](https://github.com/user-attachments/assets/16a6f9ff-93bc-467b-956b-44e8874b39f3)
+
+移动到合适位置，然后给另外一边也加上（镜像什么的），然后改个名
+
+![图片](https://github.com/user-attachments/assets/795d7636-ea90-4b8a-9470-7e56575f11e2)
+
+别忘了之前说的顶点组和骨骼的关系
+
+新建同名顶点组并设置权重为 1
+
+注意有一个坑，如果你做什么复杂模型有很多骨头，那么一个顶点最多分配给 4 个顶点组
+（.model 文件会将一个顶点分配给恰好四个顶点组。它不能存储超过四个。如果少于四个，它将只将其余顶点分配给 Bip01 权重为 0 的顶点组。（例如，如果顶点仅分配给一个顶点组，它将把其他三个顶点存储为Bip01: 0.0。）这意味着您只能将一个顶点分配给 4 个顶点组。)
+
+![图片](https://github.com/user-attachments/assets/eefec924-7c84-4b43-8c08-6a2e82ac8396)
+
+
+物体模式选中骨架，然后这里就会变成姿态模式，选择姿态模式。
+
+![图片](https://github.com/user-attachments/assets/007f2b58-7fa6-4b47-a316-21c3a3f6f5c9)
+
+在姿态模式移动骨骼，可以看到它能够控制我们的翅膀，就说明顶点组做对了
+
+![888](https://github.com/user-attachments/assets/946abd49-560b-4626-afaf-34a202a4b203)
+
+然后我们就可以切换到 animation 模式了（顶部中间）
+
+我们这里用默认的动画摄影表模式
+
+我这里先把翅膀打直，然后按右键选择插入关键帧
+
+注意：虽然你可以单独调整，但是插入关键帧时最好两个骨头都选中再插入，因为动画摄影表允许你单独编辑骨头。
+
+![图片](https://github.com/user-attachments/assets/27a4b46c-dee7-427e-ab1b-0082ae503c3c)
+
+![图片](https://github.com/user-attachments/assets/86f4f180-62b4-4a80-adf5-b6bf107d206a)
+
+![图片](https://github.com/user-attachments/assets/52894a9b-791f-43b8-b554-086b9d48eb0b)
+
+
+然后移动下面的帧数到你喜欢的位置，移动翅膀，再插入一个关键帧
+
+![图片](https://github.com/user-attachments/assets/84844931-8e01-4d8d-aff2-53eaf47d0f0b)
+
+然后选中起始点，按 ctrl + c， ctrl + v 复制一下
+
+再按 G 拖到合适位置
+
+然后再设置结束点为 60 帧（因为我把关键帧拖到了 60 帧）
+
+![图片](https://github.com/user-attachments/assets/14e10740-7023-4667-9e35-28829c7b4334)
+
+最后点击播放，我们就得到了一个动画
+
+![888](https://github.com/user-attachments/assets/037da182-a2aa-45b7-8a59-cf199c3b2259)
+
+然后转换为 CM3D2 插值
+
+![图片](https://github.com/user-attachments/assets/4d1c16c5-c44b-4cc9-a02a-e4904e4b0e0f)
+
+然后导出就行了
+
+![图片](https://github.com/user-attachments/assets/261ecd9e-9eda-4cb6-b000-45c03da1d598)
 
 
 
