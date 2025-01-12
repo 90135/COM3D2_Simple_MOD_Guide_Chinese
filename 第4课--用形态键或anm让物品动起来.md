@@ -182,7 +182,7 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ![图片](https://github.com/user-attachments/assets/f541b660-cda6-45d9-bb13-6ebc4ef70e83)
 
-添加以后在这里选中就能移动了
+添加以后如果选中布料，那么这里选中就能移动了
 
 ![图片](https://github.com/user-attachments/assets/16a6f9ff-93bc-467b-956b-44e8874b39f3)
 
@@ -199,6 +199,19 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ![图片](https://github.com/user-attachments/assets/eefec924-7c84-4b43-8c08-6a2e82ac8396)
 
+先导出
+
+#### 添加骨头后为什么导出后骨头就没了？（如何添加骨头）
+
+由于我们加了骨头，所以导出时数据源要选骨架
+
+否则导出后，再导入，你会发现你的骨头被删了
+
+![图片](https://github.com/user-attachments/assets/90b96654-1350-4ed9-bbc5-fab2348a8afc)
+
+<br>
+
+这里推荐重启 blender，重新导入刚刚导出的模型，以此来检查是否正确
 
 物体模式选中骨架，然后这里就会变成姿态模式，选择姿态模式。
 
@@ -243,10 +256,20 @@ ShapeKey（形态键），是 3D 动画领域的一种通用技术。
 
 ![图片](https://github.com/user-attachments/assets/4d1c16c5-c44b-4cc9-a02a-e4904e4b0e0f)
 
-然后导出就行了
+然后导出
 
 ![图片](https://github.com/user-attachments/assets/261ecd9e-9eda-4cb6-b000-45c03da1d598)
 
+如果你没有为刚刚加的骨头设置父级，那么这里要取消掉
+
+当然，你最好设置父级，不然会乱动
+
+然后，选只导出关键帧就够了，第一个选项坏了
+
+![图片](https://github.com/user-attachments/assets/d5ca1a86-6425-4618-bb09-b80a253915a4)
+
+
+![999](https://github.com/user-attachments/assets/5825823b-a72a-436a-9f80-15d3f3bd9ab1)
 
 
 ## 作业
