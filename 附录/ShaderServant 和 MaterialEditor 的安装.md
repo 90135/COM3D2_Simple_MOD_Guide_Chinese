@@ -1,8 +1,8 @@
 # 再见了所有的 NPRShader 插件
 
-## 什么是 NRP 插件
+## 什么是 NPRShader 插件
 
-NPRShader.Plugin 是一个添加额外着色器的插件，他往游戏内添加了自己的 NPR 着色器，且只能添加自己的 NPR 着色器。
+NPRShader.Plugin 是一个添加额外着色器的插件，他往游戏内添加了自己的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
 
 但是由于无人维护，在 2.38.0 中已经损坏，虽然有什么奇奇怪怪的修复，但是不建议使用了。
 
