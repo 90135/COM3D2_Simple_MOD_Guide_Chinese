@@ -116,6 +116,17 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 
 2. 如果你在 `Sybaris` 或 `UnityInjector` 里面有类似 EditBodyLoadFix 的插件，请删除。
 
+## 其他方案
+
+如果你真的想要类似 NPRShader 的 GUI
+
+装一个 comsh，它有 NPRShader GUI。
+
+不过安装比较复杂，我这里就不提供了。
+
+地址在 [https://comsh.livedoor.blog/](https://comsh.livedoor.blog/)
+
+右上角有个 GoogleDriver
 
 # 安装完成应该这样
 
