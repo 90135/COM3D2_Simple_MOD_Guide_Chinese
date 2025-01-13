@@ -12,11 +12,13 @@
 
 ## 阅读地址
 
-建议访问 gitbook 获得更佳阅读体验。
+建议访问 gitbook 获得更佳阅读体验：
 
 [https://90135.gitbook.io/com3d2_simple_mod_guide_chinese](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese)
 
-或者你也可以直接点本仓库里的 .md 文件阅读
+或者你也可以直接点本仓库里的 .md 文件阅读，项目地址：
+
+[https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
 
 ## 目录
 
