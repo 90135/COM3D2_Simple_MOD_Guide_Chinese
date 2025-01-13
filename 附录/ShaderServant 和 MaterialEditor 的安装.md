@@ -110,11 +110,11 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 
 以后你有了新的着色器定义也是放进 `COM3D2\MaterialEditorDefinitions` 文件夹就行了
 
-## 其他
+## 其他注意事项
 
-如果你在 `COM3D2\script` 文件夹里面有 `wrap_mode_extend.cs` 或 `wrap_mode_extend_npr.cs` 或 `wrap_mode_extend_sc.cs` 的话
+1. 如果你在 `COM3D2\script` 文件夹里面有 `wrap_mode_extend.cs` 或 `wrap_mode_extend_npr.cs` 或 `wrap_mode_extend_sc.cs` 的话请删除， ShaderServant 自带 wrap_mode_extend 支持，否则你的材质会出问题。
 
-请删除， ShaderServant 自带 wrap_mode_extend 支持，否则你的材质会出问题。
+2. 如果你在 `Sybaris` 或 `UnityInjector` 里面有类似 EditBodyLoadFix 的插件，请删除。
 
 
 # 安装完成应该这样
