@@ -92,7 +92,7 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 以后你有了新的着色器也是放进 `COM3D2\ShaderServantPacks` 文件夹就行了
 
-## MaterialEditor
+## MaterialEditor 添加额外着色器定义
 
 MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 
