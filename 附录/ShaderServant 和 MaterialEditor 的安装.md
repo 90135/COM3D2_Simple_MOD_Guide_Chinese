@@ -2,9 +2,11 @@
 
 ## 什么是 NPRShader 插件
 
-NPRShader.Plugin 是一个添加额外着色器的插件，他往游戏内添加了自己的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
+NPRShader.Plugin 是一个添加额外着色器的插件，它往游戏内添加了自己的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
 
-但是由于无人维护，在 2.38.0 中已经损坏，虽然有什么奇奇怪怪的修复，但是不建议使用了。
+但是由于无人维护，不开源且早就停止分发了
+
+NPRShader 在 2.38.0 中已经损坏，虽然有什么奇奇怪怪的修复，但是不建议使用了。
 
 ## 什么是 ShaderServant
 
@@ -107,6 +109,13 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 ![图片](https://github.com/user-attachments/assets/a7961056-700f-4c09-a1ff-a0c1f51584c2)
 
 以后你有了新的着色器定义也是放进 `COM3D2\MaterialEditorDefinitions` 文件夹就行了
+
+## 其他
+
+如果你在 `COM3D2\script` 文件夹里面有 `wrap_mode_extend.cs` 或 `wrap_mode_extend_npr.cs` 或 `wrap_mode_extend_sc.cs` 的话
+
+请删除， ShaderServant 自带 wrap_mode_extend 支持，否则你的材质会出问题。
+
 
 # 安装完成应该这样
 
