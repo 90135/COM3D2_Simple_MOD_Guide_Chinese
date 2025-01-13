@@ -57,12 +57,13 @@
 ### Blender 相关
 
  - Blender
-   - 推荐 3.3.21 版本，如果你要编辑体型那种高模，3.3 太卡的话，可以用 2.39.18，但是会有一些 bug
+   - 推荐 3.3.21 版本
+   - 如果你要编辑 lobody highpoly 体型那种高顶点数模型，用 3.3 太卡的话，可以用 2.39.18，但是会有一些 bug，所以编辑完后要导回 3.3.21 再进行一些处理
    - [https://download.blender.org/release/](https://download.blender.org/release/)
    - [https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip](https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip)
   
  - Blender COM3D2 插件
-   - 2.93.18 使用 luv.2022.09.16
+   - 2.39.18 使用 luv.2022.09.16
    - 3.3.21 使用最新版 (luv.2023.09.23)
    - [https://github.com/luvoid/Blender-CM3D2-Converter/releases](https://github.com/luvoid/Blender-CM3D2-Converter/releases)
 
