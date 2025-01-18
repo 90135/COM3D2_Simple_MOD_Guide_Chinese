@@ -11,7 +11,7 @@
 简单来说就是读取网格名，网格名（并不是文件名，也不是 menu 名）里面需要包含 `hhmod_foo`，
 那么插件就去读取配置文件名为 `hhmod_foo.json` 的配置文件，配置文件里面写了脚的角度、脚趾的角度什么的，从而动态调整脚和脚趾的角度。
 
-比如自带的 hhmod_27d.json 配置文件 
+比如自带的 `hhmod_27d.json` 配置文件（实际的文件并不能有注释）：
 ```
 {
   "BodyOffset": 0.04,    //默认女仆 BodyOffset，如果您没有为场景单独设置 BodyOffset，则应用此值。//如果你在中设置 EnableGlobalPreSceneOffsetSettings 为 false ，则使用此值，否则此值不会被使用
