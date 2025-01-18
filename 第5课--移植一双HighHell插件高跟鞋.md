@@ -143,9 +143,9 @@
 
 重新添加一个标准的 body001（摩托姿势）
 
-![图片](https://github.com/user-attachments/assets/d77b28e8-7fbf-4e0b-a88b-3dc2c94db834)
-
 选中 body001 的骨架，点导入 .anm，把刚刚的 t.anm 导入
+
+![图片](https://github.com/user-attachments/assets/d77b28e8-7fbf-4e0b-a88b-3dc2c94db834)
 
 就会发现它变成 T-pose 了
 
