@@ -10,11 +10,23 @@
 
 本文档是开源的，欢迎贡献
 
+<br>
+
+欢迎提问，加群或者使用 Issue 或 Discussions
+
+<br>
+
+我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
+
+包括附录中也有很多知识，别忘了。
+
 ## 阅读地址
 
 建议访问 gitbook 获得更佳阅读体验：
 
 [https://90135.gitbook.io/com3d2_simple_mod_guide_chinese](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese)
+
+<br>
 
 或者你也可以直接点本仓库里的 .md 文件阅读，项目地址：
 
@@ -22,10 +34,12 @@
 
 ## 目录
 
+ - [附录，有很多知识哟](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu)
  - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
  - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
  - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
  - [第 4 课，用形态键或 .anm 让物品动起来](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-4-ke-yong-xing-tai-jian-huo-anm-rang-wu-pin-dong-qi-lai)
+ - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
 
 ## 交流群
 
