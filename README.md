@@ -131,6 +131,7 @@ Blender 是一个开源的建模软件
 ### 妙妙工具
 
  - Everything（全盘秒搜工具，还能搜文件内容什么的）
+   - 建议开机启动，不然还要等索引
    - [https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)
     
  - Bandizip（解压软件）
