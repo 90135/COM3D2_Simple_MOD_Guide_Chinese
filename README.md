@@ -71,7 +71,9 @@
      
 ### Blender 相关
 
- - Blender
+Blender 是一个开源的建模软件
+
+ - Blender 
    - 推荐 3.3.21 版本
    - 如果你要编辑 lobody highpoly 体型那种高顶点数模型，用 3.3 太卡的话，可以用 2.39.18，但是会有一些 bug，所以编辑完后要导回 3.3.21 再进行一些处理
    - [https://download.blender.org/release/](https://download.blender.org/release/)
@@ -85,6 +87,19 @@
  - Blender MMD 插件
    - 3.3.21 使用 2.8.1 版本
    - [https://github.com/UuuNyaa/blender_mmd_tools/releases](https://github.com/UuuNyaa/blender_mmd_tools/releases)
+
+#### Blender 教程
+
+ - 先看这个速成一下，时间比较短
+   - [https://www.bilibili.com/video/av355541649](https://www.bilibili.com/video/av355541649)
+
+ - 比较系统的课
+   - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
+   - [https://www.bilibili.com/video/av218387890](https://www.bilibili.com/video/av218387890)
+
+ - 辣椒酱系统课（太琐碎细致了，不适合我们的场景）
+   - [https://www.bilibili.com/video/av205836298](https://www.bilibili.com/video/av205836298)
+
 
 ### 插件相关
   
