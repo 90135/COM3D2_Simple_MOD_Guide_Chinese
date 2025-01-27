@@ -128,6 +128,14 @@ Blender 是一个开源的建模软件
  - SuppressGetTypesErrorsPatcher（确保反射失败不会崩溃）
    - [https://github.com/BepInEx/BepInEx.Utility](https://github.com/BepInEx/BepInEx.Utility)
 
+### 妙妙工具
+
+ - Everything（全盘秒搜工具，还能搜文件内容什么的）
+   - [https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)
+    
+ - Bandizip（解压软件）
+   - [https://cn.bandisoft.com/bandizip/](https://cn.bandisoft.com/bandizip/)
+
 ### 素材相关
 
  - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
