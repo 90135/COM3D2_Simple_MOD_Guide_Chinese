@@ -53,6 +53,7 @@
 ### 上网工具
 
 - 自备
+ - 没有上网工具基本寸步难行
 
 ### MOD 工具
  - English Modding Tools Pack 英文改装工具包
@@ -114,8 +115,19 @@
 
 ### 素材相关
 
- - 本人的 MOD，可以当素材或者示例使用
+ - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
+   - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
+
+ - InoryS 的 MOD，可以当素材或者示例使用，可以随意修改分发（已获同意）
    - [https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA](https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA)
+
+### 条款相关
+
+  - KISS 条款
+   - 发布 MOD 时需要遵守此条款，还需要在 MOD 内放置条款链接
+   - [中文版](https://com3d2.jp/zh/cn/terms.html)
+   - [日文版](http://kisskiss.tv/kiss/diary.php?no=558)
+   - [英文版](https://com3d2.world/r18/modrul.html)
 
 
 ## 其他参考资料
@@ -123,4 +135,7 @@
  - [https://seesaawiki.jp/com3d2_kaizou_info/](https://seesaawiki.jp/com3d2_kaizou_info/)
  - [https://discord.gg/custommaid](https://discord.gg/custommaid)
 
-
+## 其他可以参考的教程
+ - [https://www.bilibili.com/video/BV1tu411R7TV/](https://www.bilibili.com/video/BV1tu411R7TV/)
+ - [https://bdffzi-blog.pages.dev/posts/2633666094](https://bdffzi-blog.pages.dev/posts/2633666094)
+ - [https://www.bilibili.com/video/BV148411i7uy/](https://www.bilibili.com/video/BV148411i7uy/)
