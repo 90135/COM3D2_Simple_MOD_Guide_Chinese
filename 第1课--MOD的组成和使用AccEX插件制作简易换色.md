@@ -88,7 +88,6 @@
 这个官方支持就是 `.mod`  格式的文件，只要把它放进 MOD 文件夹就可以生效。
 
 不过这个 “官方支持” 并不算非常全面，许多高级需求（如覆盖已有文件、动态刷新等）必须通过其他办法才能实现。
-
 <br>
 
 所以呢出现了  [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件，现在已经不使用 `.mod` 格式的 MOD 了。
@@ -104,6 +103,14 @@
 更详细的信息请参考
  - [https://github.com/Neerhom/COM3D2.ModLoader](https://github.com/Neerhom/COM3D2.ModLoader)
  - [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
+
+<br>
+
+不过呢其实，在 [CM3D2 v1.11](https://www.kisskiss.tv/cm3d2/update.php) 版本，官方就添加了可以从 MOD 文件夹中直接读取 `*.menu,*.model,*.mate,*.anm,*.tex` 的能力
+
+所以部分 MOD 其实不需要 Modloader 也能读取
+
+![图片](https://github.com/user-attachments/assets/326ab08f-1f6c-419f-83b5-580182a77553)
 
 <details>
 
