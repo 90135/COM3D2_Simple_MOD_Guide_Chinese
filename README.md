@@ -176,8 +176,10 @@ Blender 是一个开源的建模软件
  - [https://seesaawiki.jp/com3d2mod_wiki/](https://seesaawiki.jp/com3d2mod_wiki/)
  - [https://seesaawiki.jp/com3d2_kaizou_info/](https://seesaawiki.jp/com3d2_kaizou_info/)
  - [https://discord.gg/custommaid](https://discord.gg/custommaid)
+ - [https://github.com/luvoid/COM3D2-All-Bout-Bones](https://github.com/luvoid/COM3D2-All-Bout-Bones)
 
 ## 其他可以参考的教程
  - [https://www.bilibili.com/video/BV1tu411R7TV/](https://www.bilibili.com/video/BV1tu411R7TV/)
  - [https://bdffzi-blog.pages.dev/posts/2633666094](https://bdffzi-blog.pages.dev/posts/2633666094)
  - [https://www.bilibili.com/video/BV148411i7uy/](https://www.bilibili.com/video/BV148411i7uy/)
+
