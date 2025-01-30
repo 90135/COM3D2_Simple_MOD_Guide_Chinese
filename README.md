@@ -139,6 +139,8 @@ Blender 是一个开源的建模软件
  - HighHeel-InoryS 版（高跟鞋插件）
    - [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
   
+ - BodyCategoryAdd（编辑模式添加身体类别，用于更换体型）
+   - [https://ux.getuploader.com/cm3d2_k/download/88](https://ux.getuploader.com/cm3d2_k/download/88)
 
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
