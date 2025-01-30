@@ -101,12 +101,20 @@ Blender 是一个开源的建模软件
    - [https://www.bilibili.com/video/av205836298](https://www.bilibili.com/video/av205836298)
 
 
-### 插件相关
+### 游戏插件相关
   
- - AlwaysColorChangeEx 插件，简称 AccEX （MOD 制作工具）
+ - AlwaysColorChangeEx，简称 AccEX （MOD 制作工具）
    - [https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
 
- - PropMyItem 插件，Inory-S 版（随时随地呼出物品菜单）
+ - ShaderServant（额外着色器支持插件）
+   - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
+   - [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
+
+ - MaterialEditor（类似 AccEX 的工具，但支持额外着色器）
+   - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
+   - [https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336](https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336)
+
+ - PropMyItem，Inory-S 版（随时随地呼出物品菜单）
    - 比其他版本多了个查看 accVag 和 accAnl 分类的功能什么的
    - [https://github.com/InoryS/COM3D2.PropMyItem.Plugin](https://github.com/InoryS/COM3D2.PropMyItem.Plugin)
 
@@ -115,6 +123,9 @@ Blender 是一个开源的建模软件
  
  - ShapeAnimator（用于在游戏内调整形态键）
    - [https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin](https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin)
+
+ - LiveLink（使用此插件可以让你的游戏实时同步 Blender 中的姿态，做动画什么的可以实时预览，且可以实时发送网格变形什么的。）
+   - [https://github.com/luvoid/COM3D2.LiveLink](https://github.com/luvoid/COM3D2.LiveLink)
 
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
