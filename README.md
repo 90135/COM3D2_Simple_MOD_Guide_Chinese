@@ -134,7 +134,11 @@ Blender 是一个开源的建模软件
    - [https://ux.getuploader.com/trzr_tool/download/26](https://ux.getuploader.com/trzr_tool/download/26)
 
  - ShiftClickExplorer（编辑模式“shift+左键”物品转跳到 MOD 文件所在位置）
-   - https://github.com/krypto5863/COM3D2.ShiftClickExplorer
+   - [https://github.com/krypto5863/COM3D2.ShiftClickExplorer](https://github.com/krypto5863/COM3D2.ShiftClickExplorer)
+
+ - HighHeel-InoryS 版（高跟鞋插件）
+   - [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
+  
 
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
