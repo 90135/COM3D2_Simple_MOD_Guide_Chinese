@@ -95,7 +95,7 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 ![图片](https://github.com/user-attachments/assets/d0f4f688-d446-46f9-9c6f-2e36d8bf810f)
 
-4. 把 Shaders 里面的文件放进 `COM3D2\ShaderServantPacks`
+4. 把 `Shaders` 文件夹里面的文件放进 `COM3D2\ShaderServantPacks`
 
 ![图片](https://github.com/user-attachments/assets/bf030b31-9ff7-48ff-b0e0-633ee62dbf94)
 
@@ -115,7 +115,7 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 
 ![图片](https://github.com/user-attachments/assets/d0f4f688-d446-46f9-9c6f-2e36d8bf810f)
 
-4. 把 MaterialEditorDefinitions 里面的文件放进 `COM3D2\MaterialEditorDefinitions`
+4. 把 `MaterialEditorDefinitions` 文件夹里面的文件放进 `COM3D2\MaterialEditorDefinitions`
 
 ![图片](https://github.com/user-attachments/assets/a7961056-700f-4c09-a1ff-a0c1f51584c2)
 
