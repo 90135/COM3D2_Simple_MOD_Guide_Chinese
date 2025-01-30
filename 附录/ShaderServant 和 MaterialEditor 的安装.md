@@ -53,7 +53,9 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 6. CM3D2.Serialization.dll 放进 `COM3D2\BepInEx\plugins`
 
 
-## 安装 MaterialEditor
+## 安装 MaterialEditor（可选）
+
+不做 MOD，或者不自己修改材质可以不装。
 
 插件没有快捷键，安装后在编辑模式左边会有一个 MaterialEditor 按钮。
 
@@ -86,9 +88,11 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 1. 打开 [https://github.com/silver1145/scripts-com3d2](https://github.com/silver1145/scripts-com3d2)
 
 2. 如图下载包
+
 ![图片](https://github.com/user-attachments/assets/663d7b10-309a-41d7-8dd8-8b5a5666c330)
 
 3. 解压后找到如图文件夹
+
 ![图片](https://github.com/user-attachments/assets/d0f4f688-d446-46f9-9c6f-2e36d8bf810f)
 
 4. 把 Shaders 里面的文件放进 `COM3D2\ShaderServantPacks`
@@ -104,9 +108,11 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 1. 打开 [https://github.com/silver1145/scripts-com3d2](https://github.com/silver1145/scripts-com3d2)
 
 2. 如图下载包
+
 ![图片](https://github.com/user-attachments/assets/663d7b10-309a-41d7-8dd8-8b5a5666c330)
 
 3. 解压后找到如图文件夹
+
 ![图片](https://github.com/user-attachments/assets/d0f4f688-d446-46f9-9c6f-2e36d8bf810f)
 
 4. 把 MaterialEditorDefinitions 里面的文件放进 `COM3D2\MaterialEditorDefinitions`
