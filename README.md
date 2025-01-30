@@ -155,6 +155,10 @@ Blender 是一个开源的建模软件
  - Bandizip（解压软件）
    - [https://cn.bandisoft.com/bandizip/](https://cn.bandisoft.com/bandizip/)
 
+ - ScreenToGif（动图制作软件）
+   - [https://www.screentogif.com/](https://www.screentogif.com/)
+
+
 ### 素材相关
 
  - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
