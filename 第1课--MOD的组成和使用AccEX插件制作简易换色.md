@@ -306,9 +306,13 @@ https://seesaawiki.jp/com3d2mod_wiki/d/mate
 
 同理，只不过不需要提取了罢了
 
+使用 ShiftClickExplorer 插件，在编辑模式 shift 右键物品，就可以直接转跳到目标文件。
+
+文件都是见首页
+
 ## 使用 AlwaysColorChangeEx
 
-我们可以使用 AlwaysColorChangeEx 轻松完成刚刚的操作和编辑 mate
+我们可以使用 AlwaysColorChangeEx 轻松完成刚刚的操作和编辑 mate，文件都是见首页
 
 默认快捷键 F12
 
