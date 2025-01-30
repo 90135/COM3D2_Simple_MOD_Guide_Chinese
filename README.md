@@ -133,6 +133,8 @@ Blender 是一个开源的建模软件
  - DynBoneEdit（用于编辑摇曳骨 .col .phy）
    - [https://ux.getuploader.com/trzr_tool/download/26](https://ux.getuploader.com/trzr_tool/download/26)
 
+ - ShiftClickExplorer（编辑模式“shift+右键”转跳到 MOD 文件所在位置）
+   - https://github.com/krypto5863/COM3D2.ShiftClickExplorer
 
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
