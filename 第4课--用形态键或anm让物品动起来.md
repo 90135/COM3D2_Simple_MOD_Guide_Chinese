@@ -309,6 +309,14 @@ anime
 
 恭喜你已经学会了使用 .anm
 
+### 提示
+
+使用此插件可以让你的游戏实时同步 Blender 中的姿态，做动画什么的可以实时预览
+
+且可以实时发送网格变形什么的。
+
+[https://github.com/luvoid/COM3D2.LiveLink](https://github.com/luvoid/COM3D2.LiveLink)
+
 
 ## 作业
 
