@@ -26,13 +26,18 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 一个类似于 AlwaysColorChangeEX 的插件，允许你在游戏内实时查看材质效果。
 
-比如之前的 NRP 插件的 GUI。
+可以替代之前 NPR 插件的 GUI。
 
-它可以任意扩展，只要有着色器定义文件，就能显示。而不是像 AlwaysColorChangeEX 或者 NPR 那样是硬编码的。
+它可以任意扩展，只要有着色器定义文件，就能显示。
 
-目前没有导出功能。
+而不是像 AlwaysColorChangeEX 或者 NPR 那样是硬编码的。
+
+但是目前没有导出功能，所以对于模组作者来说目前只能预览效果，还需要手动填写 mate 文件。
 
 目前只能在编辑模式使用，安装后在编辑模式左边会有一个 MaterialEditor 按钮
+
+<br>
+<br>
 
 # 更换成 ShaderServant 
 1. 在你的文件夹里面搜索 `COM3D2.NPRShader.Managed.dll.`、`COM3D2.NPRShader.Patcher.dll`、`COM3D2.NPRShader.Plugin.dll` 然后删除
