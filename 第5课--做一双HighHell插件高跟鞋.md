@@ -1,10 +1,10 @@
 # 第 5 课，做一双 HighHell 插件高跟鞋
 
-## HighHell 插件
+## HighHell 插件是什么
 
-我们用到的就是 COM3D2.HighHeel.Plugin 插件，正如其名字就是要用来做高跟鞋的插件，相比于之前的 RV 高跟鞋，HH 插件高跟鞋不限制体型，不限制袜子，可以随意使用。
+COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高跟鞋的插件，相比于之前的 RV 高跟鞋，HH 插件高跟鞋不限制体型，不限制袜子，使用非常灵活。
 
-这个仓库里都有说原理是什么，请先大致看一遍，有中文和英文版本。
+他的仓库里都有说原理是什么，请先大致看一遍，有中文和英文版本。
 
 [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
 
