@@ -93,8 +93,13 @@ Blender 是一个开源的建模软件
  - 先看这个速成一下，时间比较短
    - [https://www.bilibili.com/video/av355541649](https://www.bilibili.com/video/av355541649)
 
+ - Blender 界面介绍
+   - https://www.bilibili.com/video/av113832639136668
+
  - UV 和材质教程
    - [https://www.bilibili.com/video/av385242165](https://www.bilibili.com/video/av385242165)
+   - https://www.bilibili.com/video/av926436454
+   - https://www.bilibili.com/video/av950602700
 
  - 比较系统的课
    - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
