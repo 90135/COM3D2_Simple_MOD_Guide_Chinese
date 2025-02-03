@@ -174,6 +174,8 @@ Blender 是一个开源的建模软件
  - ScreenToGif（动图制作软件）
    - [https://www.screentogif.com/](https://www.screentogif.com/)
 
+ - Photopea（在线版 PhotoShop）
+   - [https://www.photopea.com/](https://www.photopea.com/)
 
 ### 素材相关
 
