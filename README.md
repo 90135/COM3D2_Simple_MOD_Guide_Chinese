@@ -105,7 +105,7 @@ Blender 是一个开源的建模软件
    - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
    - [https://www.bilibili.com/video/av218387890](https://www.bilibili.com/video/av218387890)
 
- - 辣椒酱系统课（太琐碎细致了，不适合我们的场景，考虑细学再看）
+ - 辣椒酱系统课（太细致了，需要深入 Blender 时看）
    - [https://www.bilibili.com/video/av205836298](https://www.bilibili.com/video/av205836298)
 
 
