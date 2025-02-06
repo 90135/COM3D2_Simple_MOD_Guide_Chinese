@@ -163,7 +163,9 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 ![图片](https://github.com/user-attachments/assets/8c8f5db9-e9a1-403b-87eb-7713e55ad6fb)
 
-但是你会发现，在右上角设置父级以后，切换姿势鞋子还是没有跟着动（注意，不是右键或 ctrl+p 设置父级，那样设置父级后会自动添加修改器的）
+但是你会发现，在右上角设置父级以后，切换姿势鞋子还是没有跟着动
+
+（注意，不是右键或 Ctrl+p 设置父级为骨架形变，那样设置父级后会自动添加修改器的，很可惜很多绑骨教程都没有说明这一点）
 
 ![图片](https://github.com/user-attachments/assets/37babe3e-33f2-42ec-b5d9-f7e7ec062e70)
 
