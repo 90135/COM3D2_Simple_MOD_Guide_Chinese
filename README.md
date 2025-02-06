@@ -22,6 +22,8 @@
 
 ## 阅读地址
 
+图片直接上传到 github，加载慢/加载不了请自备上网工具。
+
 建议访问 gitbook 获得更佳阅读体验：
 
 [https://90135.gitbook.io/com3d2_simple_mod_guide_chinese](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese)
