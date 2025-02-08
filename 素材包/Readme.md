@@ -4,6 +4,17 @@ gitbook 上看这个会迷惑
 
 文件在上面
 
+# MOD 资源
+
+ - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
+   - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
+
+ - InoryS 的 MOD，可以当素材或者示例使用，可以随意修改分发（已获同意）
+   - [https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA](https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA)
+
+
+
+
 # COM3D2.AlwaysColorChangeEx.Plugin.dll
 不知道从何而来的修改版 COM3D2.AlwaysColorChangeEx.Plugin 插件，比市面上的版本支持的着色器更多。
 
