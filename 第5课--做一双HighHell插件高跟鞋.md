@@ -4,6 +4,8 @@
 
 COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高跟鞋的插件，相比于之前的 RV 高跟鞋，HH 插件高跟鞋不限制体型，不限制袜子，使用非常灵活。
 
+我也贡献了而一部分代码，要是有 BUG 什么的可以找我。
+
 他的仓库里都有说原理是什么，请先大致看一遍，有中文和英文版本。
 
 [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
