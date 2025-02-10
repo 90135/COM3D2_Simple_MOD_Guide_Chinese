@@ -114,7 +114,8 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 添加一个 T-pose 的 body001 
 
-![图片](https://github.com/user-attachments/assets/910c27f1-da6d-4b48-9136-164f62cab16d)
+![图片](https://github.com/user-attachments/assets/5df035e9-95d3-4d08-9b15-6a1881cfa763)
+
 
 切换到正交视图，然后跳转到合适大小和角度
 
