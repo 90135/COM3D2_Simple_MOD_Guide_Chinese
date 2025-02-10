@@ -134,7 +134,7 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 原先的骑摩托姿势会给我们对齐造成很大麻烦，所以我们这里学习一下如何以任意姿势导出
 
-选择 T-pose 的骨架，点导出 .anm，我这里叫 t.anm
+物体模式选择 T-pose 的骨架，点导出 .anm，我这里叫 t.anm
 
 ![图片](https://github.com/user-attachments/assets/7a8a400a-a551-4919-b56d-b19c76c24119)
 
