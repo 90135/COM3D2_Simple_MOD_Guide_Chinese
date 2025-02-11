@@ -370,7 +370,7 @@ color 只会对 _MainTex 生效
 
 #### 渲染顺序
 
-RQ 是 renderQueue
+RQ 就是 RenderQueue 渲染顺序
 
 一般透明材质要设置为 3000+
 
@@ -385,6 +385,18 @@ RQ 是 renderQueue
 可以看到，当我们把袜子渲染顺序调到 3072 后，鞋子的显示发生了变化
 
 ![图片](https://github.com/user-attachments/assets/416ff4bb-8e09-453d-859c-341c34a76470)
+
+要保存 RQ，需要使用 .pmat 文件。
+
+使用 .pmat 的前提是需要 .mate, 在 .mate 文件的这一栏可以指定 .pmat 文件名
+
+![图片](https://github.com/user-attachments/assets/d7ef7528-adbe-4b87-8806-09d3c15f2cc9)
+
+先从其他 MOD 偷一个 .pmat 文件，然后在 .mate 中指定，然后 AccEX 插件导出时就能导出 .pmat 了，否则 AccEX 是不会导出 .pmat 的。
+
+当然你也可以手写
+
+图待续
 
 ## 作业
 
