@@ -198,7 +198,9 @@ Blender 是一个开源的建模软件
 ## MOD 发布
 一般发布在 Twitter 上，带 #COM3D2 标签
 
-这几个站点会爬取 Twitter 推文，有的站不会收录有裸露图像的推文，比如 motimoti
+这几个站点会爬取 Twitter 推文，有的站不会收录有裸露图像的推文，比如 motimoti。
+
+相对来说 mukuu.herokuapp.com 会全一些，不过我比较喜欢 motimoti3d.jp。
 
    - [https://motimoti3d.jp/](https://motimoti3d.jp/)
    - [https://mods.meido.dev/](https://mods.meido.dev/)
