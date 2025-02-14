@@ -195,6 +195,14 @@ Blender 是一个开源的建模软件
    - [日文版](http://kisskiss.tv/kiss/diary.php?no=558)
    - [英文版](https://com3d2.world/r18/modrul.html)
 
+## MOD 发布
+一般发布在 Twitter 上，带 #COM3D2 标签
+
+这几个站点会爬取 Twitter 推文，有的站不会收录有裸露图像的推文，比如 motimoti
+
+   - [https://motimoti3d.jp/](https://motimoti3d.jp/)
+   - [https://mods.meido.dev/](https://mods.meido.dev/)
+   - [https://mukuu.herokuapp.com](https://mukuu.herokuapp.com)
 
 ## 其他参考资料
  - [https://seesaawiki.jp/com3d2mod_wiki/](https://seesaawiki.jp/com3d2mod_wiki/)
