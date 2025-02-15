@@ -109,7 +109,7 @@
 
 所以呢出现了  [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件，现在已经不使用 `.mod` 格式的 MOD 了。
 
-它直接拦截官方读取文件的函数，让游戏在访问文件系统时先检查 ModLoader 的目录与缓存，从而允许我们直接加载几乎任何官方物品格式的文件。(.menu .mate 之类的)
+它直接拦截官方读取文件的函数，让游戏在访问文件系统时先检查 ModLoader 的目录与缓存，如果没有再从官方路径中查找，从而允许我们直接加载几乎任何官方物品格式的文件。(.menu .mate 之类的)(还可以覆盖官方的文件)
 
 因此官方物品有什么功能，我们就可以使用什么功能，不用再使用官方功能受限的 `.mod` 格式。
 
@@ -128,6 +128,8 @@
 所以部分 MOD 其实不需要 Modloader 也能读取
 
 ![图片](https://github.com/user-attachments/assets/326ab08f-1f6c-419f-83b5-580182a77553)
+
+但是我们仍然需要 Modloader 来做一些覆盖官方文件的操作等等。
 
 <details>
 
