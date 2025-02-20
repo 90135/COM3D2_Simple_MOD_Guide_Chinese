@@ -1,4 +1,4 @@
-# COM3D2 简明 MOD 教程
+ # COM3D2 简明 MOD 教程
 
 基于案例教学，从原理明白为什么（大概吧）
 
@@ -58,7 +58,7 @@
  - 没有上网工具基本寸步难行
 
 ### MOD 工具
- - English Modding Tools Pack 英文改装工具包（有几个工具会报毒，不放心可以改用我编写的工具，但是剩下的工具还是要用的）
+ - English Modding Tools Pack 英文改装工具包（有几个工具会报毒，不放心可以改用我编写的工具，但是剩下的工具还是要用的）（此包中的工具有些修改过，和 github 上的不太一样，建议使用此包）
    - [https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145](https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145)
    - [https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file](https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file)
   
