@@ -214,6 +214,6 @@ Blender 是一个开源的建模软件
 ## 其他可以参考的教程
  - [zaj2001杂酱教程-图文](https://www.bilibili.com/video/BV1tu411R7TV/)
  - [ymk移植教程-图文](https://drive.google.com/drive/folders/1o0k9QREGKRmVlEr5WZSNUvBd7773ulN-)
- - [BDFFZI教程-视频](https://bdffzi-blog.pages.dev/posts/2633666094)
- - [BDFFZI教程-图文](https://www.bilibili.com/video/BV148411i7uy/)
+ - [BDFFZI教程-图文](https://bdffzi-blog.netlify.app/posts/2633666094)
+ - [BDFFZI教程-视频](https://www.bilibili.com/video/BV148411i7uy/)
 
