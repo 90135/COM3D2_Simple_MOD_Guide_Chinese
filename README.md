@@ -78,12 +78,13 @@ Blender 是一个开源的建模软件
  - Blender 
    - 推荐 3.3.21 版本
    - 如果你要编辑 lobody highpoly 体型那种高顶点数模型，用 3.3 太卡的话，可以用 2.39.18，但是会有一些 bug，所以编辑完后要导回 3.3.21 再进行一些处理
+   - 3.6 版本也能勉强使用，不过会有一些 BUG，比如有的功能没有
    - [https://download.blender.org/release/](https://download.blender.org/release/)
    - [https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip](https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip)
   
  - Blender COM3D2 插件
    - 2.39.18 使用 luv.2022.09.16
-   - 3.3.21 使用最新版 (luv.2023.09.23)
+   - 3.3.21/3.6 使用最新版 (luv.2023.09.23)
    - [https://github.com/luvoid/Blender-CM3D2-Converter/releases](https://github.com/luvoid/Blender-CM3D2-Converter/releases)
 
  - Blender MMD 插件
@@ -128,10 +129,14 @@ Blender 是一个开源的建模软件
    - 比其他版本多了个查看 accVag 和 accAnl 分类的功能什么的
    - [https://github.com/InoryS/COM3D2.PropMyItem.Plugin](https://github.com/InoryS/COM3D2.PropMyItem.Plugin)
 
+ - ModItemExplorer（类似 PropMyItem，随时随地呼出物品菜单）
+   - https://github.com/kidonaru/COM3D2.ModItemExplorer.Plugin
+
  - ShapekeyMaster（用于在游戏内调整形态键）
    - [https://github.com/krypto5863/COM3D2.ShapekeyMaster](https://github.com/krypto5863/COM3D2.ShapekeyMaster)
+   - [https://github.com/InoryS/COM3D2.ShapekeyMaster](https://github.com/InoryS/COM3D2.ShapekeyMaster)  此版本可以（在启用 ShapeKey 条件时，在条件不满足时跳过 Shapekey 处理，以便其他插件可以使用）
  
- - ShapeAnimator（用于在游戏内调整形态键）
+ - ShapeAnimator（用于在游戏内调整形态键，老款）
    - [https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin](https://github.com/InoryS/COM3D2.ShapeAnimator.Plugin)
 
  - LiveLink（使用此插件可以让你的游戏实时同步 Blender 中的姿态，做动画什么的可以实时预览，且可以实时发送网格变形什么的。）
