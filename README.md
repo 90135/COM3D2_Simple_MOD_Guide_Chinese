@@ -62,14 +62,8 @@
    - [https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145](https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145)
    - [https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file](https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file)
   
- - 还有更好用的工具，比如 夜勤D ＠YakinKazuya 的工具，需要使用日本家庭 IP 访问，且禁止非日本人使用
-   - [https://ykndsnest.work/yknDLoader/](https://ykndsnest.work/yknDLoader/)
-  
- - 本人制作的简陋工具，未经大量测试，可能有 BUG
+ - 本人编写的 MOD 制作工具
    - [https://github.com/90135/COM3D2_MOD_EDITOR](https://github.com/90135/COM3D2_MOD_EDITOR)
-  
- - 本人的 MOD，可以当素材使用
-   - [https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA](https://mega.nz/folder/U6Jy0a6a#Pv5G9G_J5zoYc46TVmz6iA)
      
 ### Blender 相关
 
