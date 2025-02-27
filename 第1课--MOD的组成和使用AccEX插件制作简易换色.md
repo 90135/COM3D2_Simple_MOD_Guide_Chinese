@@ -185,9 +185,11 @@
 
 #### 提取文件
 
-由于是官方物品，我们需要使用 SybarisArcEditor（在英文工具包里）  从游戏文件内提取这个袜子的相关文件
+官方物品都打包在 .arc 文件内，用 SybarisArcEditor 可以打开这种文件。
 
-如果你没安装，把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了
+由于是官方物品，我们需要使用 SybarisArcEditor 从游戏文件内提取这个袜子的相关文件。
+
+如果你没有这个，去英文工具包里找到，然后把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了，该程序会自行查找游戏的 .arc 文件。
 
 ![图片](https://github.com/user-attachments/assets/68c9f72a-2dcc-4dc6-80ad-0bcdbd06deec)
 
@@ -197,7 +199,7 @@
 
 那是因为这是从 CM3D2 联动过来的，这就是为什么有的东西你找不到
 
-去 CM3D2 那边打开 SybarisArcEditor（如果你没安装，把 SybarisArcEditor.exe 放到 CM3D2.exe 旁边就行了）
+去 CM3D2 那边打开 SybarisArcEditor（同理把 SybarisArcEditor.exe 放到 CM3D2.exe 旁边就行了）
 
 可以看到官方文件种类和 dlc 名称进行了分类
 
