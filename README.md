@@ -136,8 +136,8 @@ Blender 是一个开源的建模软件
  - LiveLink（使用此插件可以让你的游戏实时同步 Blender 中的姿态，做动画什么的可以实时预览，且可以实时发送网格变形什么的。）
    - [https://github.com/luvoid/COM3D2.LiveLink](https://github.com/luvoid/COM3D2.LiveLink)
   
- - PartEdit（用于在游戏内操作骨骼）
-   - [https://ux.getuploader.com/com3d2_mod_kyouyu_f/download/107](https://ux.getuploader.com/com3d2_mod_kyouyu_f/download/107)
+ - PartEdit（用于在游戏内操作骨骼，注意不要安装 0Harmony.dll，这个是 BepinEx 自带的）
+   - [https://github.com/customordermaid3d2/COM3D2.PartsEdit.Plugin](https://github.com/customordermaid3d2/COM3D2.PartsEdit.Plugin)
 
  - DynBoneEdit（用于编辑摇曳骨 .col .phy）
    - [https://ux.getuploader.com/trzr_tool/download/26](https://ux.getuploader.com/trzr_tool/download/26)
