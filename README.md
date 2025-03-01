@@ -151,6 +151,9 @@ Blender 是一个开源的建模软件
  - BodyCategoryAdd（编辑模式添加身体类别，用于更换体型）
    - [https://ux.getuploader.com/cm3d2_k/download/88](https://ux.getuploader.com/cm3d2_k/download/88)
 
+ - 本人的插件汉化
+   - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
+  
 #### 错误处理插件
 开发 MOD 时总会遇到错误，该装还得装
 
