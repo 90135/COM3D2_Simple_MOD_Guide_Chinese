@@ -10,7 +10,7 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
 
-简单来说就是读取网格名，网格名（并不是文件名，也不是 menu 名）里面需要包含 `hhmod_foo`，
+简单来说就是读取物体名，（并不是文件名，也不是 menu 名）物体名里面需要包含 `hhmod_foo`，不知道什么是物体名就往下看（黄色倒三角是物体，绿色倒三角是网格）。
 那么插件就去读取配置文件名为 `hhmod_foo.json` 的配置文件，配置文件里面写了脚的角度、脚趾的角度什么的，从而动态调整脚和脚趾的角度。
 
 比如自带的 `hhmod_27d.json` 配置文件（实际的文件并不能有注释）：
@@ -312,9 +312,9 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 ### 收尾
 
-别忘了插件的原理，插件会读取网格名
+别忘了插件的原理，插件会读取物体名
 
-hhmod_xxxx 以 _ 为分隔符，也可以添加别的内容
+hhmod_xxxx 以 _ 为分隔符，也可以添加别的内容，例如 90135_hhmod_42d_shose
 
 ![图片](https://github.com/user-attachments/assets/ca73da43-ea4b-470c-a51a-a0568283a3e5)
 
