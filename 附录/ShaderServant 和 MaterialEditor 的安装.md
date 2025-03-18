@@ -46,7 +46,7 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 2. 去这里下载 ShaderServant [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
-    (给 COM3D2.5 使用的 还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1347251676838363146](https://discord.com/channels/297072643797155840/736350853442699284/1347251676838363146))
+    (给 COM3D2.5 使用的 还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1351258921179807877](https://discord.com/channels/297072643797155840/736350853442699284/1351258921179807877))
 
 3. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
   
