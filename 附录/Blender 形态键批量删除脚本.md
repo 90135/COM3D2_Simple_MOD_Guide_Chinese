@@ -10,9 +10,9 @@ mute 就是静音，就是取消打勾
 
 然后切换到 scripting 模式，点新建
 
-![图片](https://github.com/user-attachments/assets/9b8c8f57-fe84-44ee-86ef-c1b4dcf5fb9a)
+然后粘贴下面的脚本并执行
 
-粘贴下面的脚本并执行
+![图片](https://github.com/user-attachments/assets/9b8c8f57-fe84-44ee-86ef-c1b4dcf5fb9a)
 
 ## 工作流
 
