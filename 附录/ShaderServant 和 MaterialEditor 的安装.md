@@ -143,7 +143,7 @@ MaterialEditor 目前并不自带着色器定义，我们需要手动添加。
 
 地址在 [https://comsh.livedoor.blog/](https://comsh.livedoor.blog/)
 
-右上角有个 GoogleDriver
+右上角有个 googleドライブ （Google Driver）
 
 # 安装完成应该这样
 
