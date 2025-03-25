@@ -336,8 +336,24 @@ hhmod_xxxx 以 _ 为分隔符，也可以添加别的内容，例如 90135_hhmod
 如果你用的不是自带的配置文件，再分享时别忘了把配置文件也分享给他
 
 
+### 另一种方法
+
+ymk 大佬制作了 13d、20d、27d、34d 高度的 .anm 文件
+
+可以在首页 ymk 移植教程中，或者本仓库[素材包](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)内的 hh_anm.zip（已获授权）
+
+导入后如图，这样就可以比平底对齐更直观的做鞋了
+
+只是上文的 t.anm 换成了这个，本质没有什么不同，还是按任意姿势导出的方法导出即可。
+
+![27d](https://github.com/user-attachments/assets/e5ea44b8-eb4b-4472-ace0-42a668fa8ef4)
+
+
+
 ## 作业
 
 移植一双自己喜欢的高跟鞋
+
+
 
 
