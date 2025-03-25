@@ -36,3 +36,17 @@ gitbook 上看这个会迷惑
 CustomJsonWriter.csは、JsonFxのソースを元にしています。
 
 また、KISS公式の利用規約から逸脱した利用はお控えください
+
+
+# [COM3D2]English Mod Tools Pack 2.20.2024.zip
+英文工具包
+
+# hh_anm
+
+ymk 大佬制作的 13d、20d、27d、34d 高度高跟鞋的 .anm 文件
+
+用于制作 HighHeel 插件高跟鞋
+
+已获授权
+
+
