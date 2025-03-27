@@ -56,9 +56,9 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 3. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
   
-4. 解压 ShaderServant 得到 COM3D2.ShaderServant.dll 放进 `COM3D2\BepInEx\plugins`
+4. 解压 ShaderServant.zip 得到 COM3D2.ShaderServant.dll 放进 `COM3D2\BepInEx\plugins`
 
-5. 解压 ShaderServant 把 ShaderServantPacks 文件夹放进游戏根目录
+5. 解压 ShaderServant.zip 得到 ShaderServantPacks 文件夹，把 ShaderServantPacks 文件夹放进游戏根目录
 
 6. CM3D2.Serialization.dll 放进 `COM3D2\BepInEx\plugins`
 
