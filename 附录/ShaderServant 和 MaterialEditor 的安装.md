@@ -8,6 +8,10 @@ NPRShader.Plugin 是一个添加额外着色器的插件，它往游戏内添加
 
 NPRShader 在 COM3D 2.38.0 中已经损坏，再次由于上述的原因，就连发个修复版修复都要偷偷摸摸的。所以不建议再使用了！
 
+下图这个报错就是 NPRShader 炸了，并不是 COM3D2.HalfUnDressing.Plugin 干的
+
+<img src="https://github.com/user-attachments/assets/b4cb8e29-aadc-437c-85a6-6865cc582b2d" width=500 />
+
 ## 什么是 ShaderServant
 
 ShaderServant 是 NPRShader 的轻量级高性能替代品。
@@ -52,7 +56,7 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 2. 去这里下载 ShaderServant [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
-    (给 COM3D2.5 使用的 还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1351258921179807877](https://discord.com/channels/297072643797155840/736350853442699284/1351258921179807877))
+    (给 COM3D2.5 使用的 还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1354851389230289068](https://discord.com/channels/297072643797155840/736350853442699284/1354851389230289068))
 
 3. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
   
