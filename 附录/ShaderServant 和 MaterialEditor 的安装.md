@@ -42,7 +42,8 @@ ShaderServant 是 NPRShader 的轻量级高性能替代品。
 
 注意，编辑材质后如果你保存了存档，那么你编辑的内容会关联到你的存档，下次读取时会自动加载编辑过的内容。
 
-![图片](https://github.com/user-attachments/assets/e2607255-10e3-4c6a-9670-ae51fe5c26a5)
+
+<img src="https://github.com/user-attachments/assets/e2607255-10e3-4c6a-9670-ae51fe5c26a5" width=500 />
 
 
 <br>
