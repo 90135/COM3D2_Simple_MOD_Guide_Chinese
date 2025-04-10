@@ -401,6 +401,8 @@ color 只会对 _MainTex 生效
 
 ![图片](https://github.com/user-attachments/assets/682da734-3d70-4d99-9373-8849d2405862)
 
+**注意：AlwaysColorChangeEx 导出的 MOD 位置在 MOD 文件夹的 ACC 文件夹里面，不在原位置**
+
 #### 渲染顺序
 
 RQ 就是 RenderQueue 渲染顺序
@@ -423,13 +425,14 @@ RQ 就是 RenderQueue 渲染顺序
 
 使用 .pmat 的前提是需要 .mate, 在 .mate 文件的这一栏可以指定 .pmat 文件名
 
-![图片](https://github.com/user-attachments/assets/d7ef7528-adbe-4b87-8806-09d3c15f2cc9)
+![图片](https://github.com/user-attachments/assets/52e45c33-ff54-45e7-aaeb-b55c27d6858e)
 
-先从其他 MOD 偷一个 .pmat 文件，然后在 .mate 中指定，然后 AccEX 插件导出时就能导出 .pmat 了，否则 AccEX 是不会导出 .pmat 的。
+使用编辑器直接另存为即可新建一个 .pmat，然后在 .mate 中指定，然后 AccEX 插件导出时就能导出 .pmat 了，否则 AccEX 是不会导出 .pmat 的。
 
-当然你也可以手写
+当然你也可以手写，编辑器内对所有参数都有说明
 
-图待续
+![图片](https://github.com/user-attachments/assets/0748f18c-21b8-4d2d-9dda-acd3ebc25c7c)
+
 
 ## 作业
 
