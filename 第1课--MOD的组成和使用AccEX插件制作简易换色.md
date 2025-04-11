@@ -142,8 +142,11 @@
 
 ```
 以下のフラグをtrueにするとMODフォルダのファイルが優先されるが、モザイクも安易に外すことが可能になる為に現在はオミット。
+
 如果将以下标志设置为 true，则 MOD 文件夹中的文件将优先加载，但由于可以轻松删除马赛克，因此目前忽略此功能。
 ```
+
+包括代码可以看到以前游戏还有游戏内编辑换色 MOD 的功能，部分文件格式也有序列化写出的功能等等
 
 所以，并不是 KISS 不想支持，而是不能。
 
@@ -175,7 +178,7 @@
 
 #### 找到文件名
 
-方法 1 ：按 Shift + I 打开 PropMyItem InoryS 版
+方法 1 ：按 Shift + I 打开，或使用齿轮菜单栏按钮 PropMyItem InoryS 版
 
 在袜子栏搜索 118，我有这么多是因为我有 MOD
 
@@ -193,11 +196,13 @@
 
 由于是官方物品，我们需要使用 SybarisArcEditor 从游戏文件内提取这个袜子的相关文件。
 
-如果你没有这个，去英文工具包里找到，然后把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了，该程序会自行查找游戏的 .arc 文件。
+如果你没有这个，去首页的英文工具包里找到，然后把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了，该程序会自行查找游戏的 .arc 文件。
 
 ![图片](https://github.com/user-attachments/assets/68c9f72a-2dcc-4dc6-80ad-0bcdbd06deec)
 
 打开后会很卡，耐心等一会
+
+这个程序没做防抖，你输一个字他就搜索一次就会很卡，所以建议直接粘贴进去
 
 然后你会发现 dress118_stkg 什么都搜不到
 
@@ -221,12 +226,10 @@
 
 很久以前， KISS 官方推出了 .mod 格式，现在已经淘汰了
 
-随着 Modloader 和 MaidLoader 的出现，它允许我们直接以官方物品的格式来加载物品，因此官方有什么功能，我们就可以使用什么功能。
+随着官方的支持和 Modloader、MaidLoader 的出现，我们可以直接以官方物品的格式来加载物品，因此官方有什么功能，我们就可以使用什么功能。
 
 <br>
-.menu 其实就是个 txt 文件，只不过内部要遵照一定的格式
-
-所以我们需要一些功能，在目录的 English Modding Tools Pack 里面的 Core Modding Tools (English)，有各种工具
+所以我们需要一些工具来读写这些文件，在目录的 English Modding Tools Pack 里面的 Core Modding Tools (English)，有各种工具
 
 #### menu
 
