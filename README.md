@@ -44,6 +44,12 @@
  - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
  - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
 
+<br>
+
+ - 客座教程
+   - [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
+
+
 ## 交流群
 
 欢迎提问
@@ -78,8 +84,9 @@ Blender 是一个开源的建模软件
    - [https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip](https://download.blender.org/release/Blender3.3/blender-3.3.21-windows-x64.zip)
   
  - Blender COM3D2 插件
-   - 2.39.18 使用 luv.2022.09.16
-   - 3.3.21/3.6 使用最新版 (luv.2023.09.23)
+   - Blender 2.83 使用 luv.2021.03.20b 或 luv.2021.08.26a
+   - Blender 2.93.18 使用 luv.2022.09.16
+   - Blender 3.3.21/3.6 使用最新版 (luv.2023.09.23)
    - [https://github.com/luvoid/Blender-CM3D2-Converter/releases](https://github.com/luvoid/Blender-CM3D2-Converter/releases)
 
  - Blender MMD 插件
