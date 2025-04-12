@@ -123,12 +123,13 @@ Blender 是一个开源的建模软件
 
  - ShaderServant，简称 SS（额外着色器支持插件）
    - `BepInEx\plugins\`
-   - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
+   - 官方只带了 NprShader 着色器，需要 liltoon 等着色器请看教程安装
+   - [安装教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
    - [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
  - MaterialEditor，简称 ME（类似 AccEX 的工具，但支持额外着色器）
    - `BepInEx\plugins\`
-   - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
+   - [安装教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
    - [https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336](https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336)
 
  - PropMyItem，Inory-S 版（随时随地呼出物品菜单）
