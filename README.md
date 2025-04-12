@@ -111,24 +111,30 @@ Blender 是一个开源的建模软件
 
 
 ### 游戏插件相关
+
+ - COM Modular Installer，简称 CMI（基础插件包）
+   - 如果你的游戏是纯净版，那么先安装 CMI，可以让你获得一个基本的插件环境。
+   - [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer)
   
  - AlwaysColorChangeEx，简称 AccEX （MOD 制作工具）
    - `Sybaris\UnityInjector\`
    - [https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
 
- - ShaderServant（额外着色器支持插件）
+ - ShaderServant，简称 SS（额外着色器支持插件）
    - `BepInEx\plugins\`
    - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
    - [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
- - MaterialEditor（类似 AccEX 的工具，但支持额外着色器）
+ - MaterialEditor，简称 ME（类似 AccEX 的工具，但支持额外着色器）
    - `BepInEx\plugins\`
    - [教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/blob/main/%E9%99%84%E5%BD%95/ShaderServant%20%E5%92%8C%20MaterialEditor%20%E7%9A%84%E5%AE%89%E8%A3%85.md)
    - [https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336](https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336)
 
  - PropMyItem，Inory-S 版（随时随地呼出物品菜单）
    - `BepInEx\plugins\`
-   - 比其他版本多了个查看 accVag 和 accAnl 分类的功能什么的
+   - 比 Sybaris 版性能更好
+   - 此版本在在更换物品时会打印 menu 名到物品栏，更利于做 MOD
+   - 此外此版本还添加了隐藏的 accVag 和 accAnl 栏，可以让你多出 2 个栏位来放东西（这是官方自带的栏位，所以是不会出问题的）
    - [https://github.com/InoryS/COM3D2.PropMyItem.Plugin](https://github.com/InoryS/COM3D2.PropMyItem.Plugin)
 
  - ModItemExplorer（类似 PropMyItem，随时随地呼出物品菜单）
@@ -164,8 +170,6 @@ Blender 是一个开源的建模软件
 
  - HighHeel-InoryS 版（高跟鞋插件）
    - `BepInEx\plugins\`
-   - 此版本在在更换物品时会打印 menu 名到物品栏，更利于做 MOD
-   - 此外此版本还添加了隐藏的 accVag 和 accAnl 栏，可以让你多出 2 个栏位来放东西（这是官方自带的栏位，所以是不会出问题的）
    - [https://github.com/InoryS/COM3D2.HighHeel](https://github.com/InoryS/COM3D2.HighHeel)
  
  - BodyCategoryAdd（编辑模式添加身体类别，用于更换体型）
@@ -176,13 +180,13 @@ Blender 是一个开源的建模软件
    - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
   
 #### 错误处理插件
-开发 MOD 时总会遇到错误，该装还得装
+制作 MOD 时总会遇到错误，可以说是必装了
 
  - ExtendedErrorHandling（捕获错误，出现错误时不崩游戏，必装）
    - `BepInEx\plugins\`
    - [https://github.com/krypto5863/COM3D2.ExtendedErrorHandling](https://github.com/krypto5863/COM3D2.ExtendedErrorHandling)
 
- - CatchUnityEventExceptions（确保unity订阅可以执行）
+ - CatchUnityEventExceptions（确保 Unity 订阅可以执行）
    - `BepInEx\plugins\`
    - 下载里面的 CatchUnityEventExceptions
    - [https://github.com/BepInEx/BepInEx.Utility](https://github.com/BepInEx/BepInEx.Utility)
