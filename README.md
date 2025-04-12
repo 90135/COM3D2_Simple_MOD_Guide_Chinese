@@ -114,6 +114,7 @@ Blender 是一个开源的建模软件
 
  - COM Modular Installer，简称 CMI（基础插件包）
    - 如果你的游戏是纯净版，那么先安装 CMI，可以让你获得一个基本的插件环境。
+   - 附带中文/英文 PDF 说明，可以让你大致了解插件都是做什么用的
    - [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer)
   
  - AlwaysColorChangeEx，简称 AccEX （MOD 制作工具）
