@@ -1,5 +1,9 @@
 # 移植脸参考教程By流转的四季
 
+注：四季老师提到要用 Blender 2.83 版本： [https://download.blender.org/release/](https://download.blender.org/release/)
+
+四季老师使用的 Blender 2.83 的转换插件是 2021.03.20b 这个版本：[https://github.com/luvoid/Blender-CM3D2-Converter/releases/tag/luv.2021.03.20](https://github.com/luvoid/Blender-CM3D2-Converter/releases/tag/luv.2021.03.20)
+
 ## 提取官方FB脸
 
   - 在捏人界面选中一个 FB 脸，同时按 M、O、D 三个键弹出左上角插件导出
