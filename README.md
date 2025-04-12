@@ -137,8 +137,8 @@ Blender 是一个开源的建模软件
 
  - ShapekeyMaster（用于在游戏内调整形态键）
    - `BepInEx\plugins\`
-   - [https://github.com/krypto5863/COM3D2.ShapekeyMaster](https://github.com/krypto5863/COM3D2.ShapekeyMaster)
-   - [https://github.com/InoryS/COM3D2.ShapekeyMaster](https://github.com/InoryS/COM3D2.ShapekeyMaster)  此版本可以（在启用 ShapeKey 条件时，在条件不满足时跳过 Shapekey 处理，以便其他插件可以使用）
+   - [https://github.com/krypto5863/COM3D2.ShapekeyMaster](https://github.com/krypto5863/COM3D2.ShapekeyMaster) 注意，如果用此插件添加了形态键，那么除非设置为忽略，否则其他插件也无法调整那个形态键。如有此需求可以使用下面的修改版。
+   - [https://github.com/InoryS/COM3D2.ShapekeyMaster](https://github.com/InoryS/COM3D2.ShapekeyMaster)  此版本可以在条件不满足时跳过 Shapekey 处理，以便其他插件可以使用
  
  - ShapeAnimator（用于在游戏内调整形态键，老款）
    - `Sybaris\UnityInjector\`
