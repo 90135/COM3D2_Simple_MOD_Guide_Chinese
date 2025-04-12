@@ -36,7 +36,6 @@
 
 ## 目录
 
- - [附录，有很多知识哟](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu)
  - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
  - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
  - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
@@ -46,9 +45,17 @@
 
 <br>
 
- - 客座教程
+ - [客座教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng)
    - [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
 
+ - [附录，有很多知识哟](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu)
+   - [Blender CM3D2 Converter 插件去除机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-cm3d2-converter-cha-jian-qu-chu-ji-fan)
+   - [.menu文件的组成](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/.menu-wen-jian-de-zu-cheng)
+   - [BepInEx.ScriptLoader 插件修复](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/bepinex.scriptloader-cha-jian-zhi-jiao-ben-xiu-fu)
+   - [Blender 内预览材质](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-nei-yu-lan-cai-zhi)
+   - [Blender 形态键批量删除脚本](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-xing-tai-jian-pi-liang-shan-chu-jiao-ben)
+   - [ShaderServant 和 MaterialEditor 的安装](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
+   - [网页机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/wang-ye-ji-fan)
 
 ## 交流群
 
