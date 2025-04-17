@@ -2,7 +2,7 @@
 
 ## 什么是 NPRShader 插件
 
-NPRShader.Plugin 是一个添加额外着色器的插件，它往游戏内添加了自己的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
+NPRShader.Plugin 是一个添加额外着色器的插件，它往游戏内添加了自己同名的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
 
 但是这个插件无人维护、不开源、甚至停止分发，所以我们需要把它淘汰掉。
 
@@ -14,11 +14,17 @@ NPRShader 在 COM3D 2.38.0 中已经损坏，再次由于上述的原因，就�
 
 ## 什么是 ShaderServant
 
-ShaderServant 是 NPRShader 的轻量级高性能替代品。
+ShaderServant（ss） 是 NPRShader 的轻量级高性能替代品。 
 
-提供一个简单且非侵入式的外部着色器加载器，同时还支持旧的 NPR 标准。需要澄清的是，这意味着 NPR 材质无需任何编辑即可完美运行。
+它同时也是 npr_addition.cs (npra) 的替代品，如果有 MOD 要求 NPRShader 或者 npra，那么你只需要 ShaderServant 就够了。
 
-它是一个单纯的着色器加载器，不会有 GUI 什么的。
+<br>
+
+ss 提供一个简单且非侵入式的外部着色器加载器，同时还支持旧的 NPR 标准。这意味着 NPR 材质无需任何编辑即可完美运行。
+
+<br>
+
+它是一个单纯的着色器加载器，不会有 GUI 什么的。（非常好的软件编写哲学之单一职责原则）
 
 简单来说就是这是一个着色器加载器，可以把额外的着色器加载进游戏内。
 
