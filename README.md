@@ -275,3 +275,4 @@ Blender 是一个开源的建模软件
  - [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
  - [COM3D2 插件中文翻译](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
  - [90135 的 COM3D2 中文指北](https://github.com/90135/COM3D2_GUIDE_CHINESE)
+ - [901 的 COM3D2 脚本收藏集](https://github.com/90135/COM3D2_Scripts_901)
