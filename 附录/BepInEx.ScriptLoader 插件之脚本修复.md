@@ -25,6 +25,10 @@ error cs0619: HarmonyLib.Harmony.UnpatchAll(string)' is obsolete Use Unpatchself
 
 到这里下载，然后把  ScriptLoader.dll  放到 `COM3D2\BepInEx\plugins`
 
+很不幸没有简单的办法判断是不是新版
+
+2024 年 3 月 1 日 及之后的 [CMI](https://github.com/krypto5863/COM-Modular-Installer) 内附带的都是此版本的（CMI.2.5.21-RC3.zip）
+
 ### 修复
 
 使用任意文本编辑器打开脚本 (`COM3D2/script` 内的 .cs 文件)
