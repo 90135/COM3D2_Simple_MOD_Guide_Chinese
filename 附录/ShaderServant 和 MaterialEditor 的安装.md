@@ -14,7 +14,7 @@ NPRShader 在 COM3D 2.38.0 中已经损坏，再次由于上述的原因，就�
 
 ## 什么是 ShaderServant
 
-ShaderServant（ss） 是 NPRShader 的轻量级高性能替代品。 
+ShaderServant (ss) 是 NPRShader 的轻量级高性能替代品。 
 
 它同时也是 npr_addition.cs (npra) 的替代品，如果有 MOD 要求 NPRShader 或者 npra，那么你只需要 ShaderServant 就够了。
 
@@ -24,7 +24,7 @@ ss 提供一个简单且非侵入式的外部着色器加载器，同时还支�
 
 <br>
 
-它是一个单纯的着色器加载器，不会有 GUI 什么的。（非常好的软件编写哲学之单一职责原则）
+它是一个单纯的着色器加载器，不会有 GUI 什么的。（非常好的软件编写哲学之单一职责原则，使我的领结旋转）
 
 简单来说就是这是一个着色器加载器，可以把额外的着色器加载进游戏内。
 
