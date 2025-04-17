@@ -31,11 +31,11 @@ error cs0619: HarmonyLib.Harmony.UnpatchAll(string)' is obsolete Use Unpatchself
 
 ### 修复
 
-使用任意文本编辑器打开脚本 (`COM3D2/script` 内的 .cs 文件)
+使用任意文本编辑器打开"脚本" (`COM3D2/script` 内的 .cs 文件)
 
 
 1. 将脚本内的 `HarmonyWrapper.PatchAll` 替换为 `Harmony.CreateAndPatchAll`
-2. 将脚本内的 `Harmony.UnpatchAll(string)` 替换为 `Harmony.UnpatchSelf()`
+2. 将脚本内的 `Harmony.UnpatchAll(string)` 替换为 `Harmony.UnpatchSelf()` 或 
 
 有时候前缀可能不是 Harmony ，而是  `instance.UnpatchAll();` 之类的 也是一样替换为 `instance.UnpatchSelf()`
 
@@ -48,6 +48,29 @@ error cs0619: HarmonyLib.Harmony.UnpatchAll(string)' is obsolete Use Unpatchself
 ![图片](https://github.com/user-attachments/assets/d4329331-ed57-4404-af07-1a0f0d8005c0)
 
 
+<br>
+<br>
+<br>
+
+如果你稍微懂一点代码，还建议在 UnpatchSelf 前先检查是否为 null，因为 ScriptLoader 是支持热重载的。
+
+![图片](https://github.com/user-attachments/assets/c34bce73-8b16-4419-afd6-bded256a593f)
+
+```
+        public static void Main()
+        {
+            instance = Harmony.CreateAndPatchAll(typeof(CreateHoneymoonModeCharaList));
+        }
+
+        public static void Unload()
+        {
+            if (instance != null){
+                instance.UnpatchSelf();
+                instance = null;
+            }
+        }
+```
+
 
 
 ### 其他
@@ -56,7 +79,7 @@ error cs0619: HarmonyLib.Harmony.UnpatchAll(string)' is obsolete Use Unpatchself
 
 但给的报错往往不是罪魁祸首。
 
-一般而言是报错的那个脚本的上一个（字母顺序）
+一般而言是报错的那个脚本的上一个（字母顺序），建议直接搜索方法名。
 
 如果不是，请一个个禁用尝试
 
