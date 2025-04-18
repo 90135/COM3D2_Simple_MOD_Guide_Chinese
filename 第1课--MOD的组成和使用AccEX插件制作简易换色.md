@@ -207,17 +207,15 @@ MaidLoader 有一个 QuickMod 功能，可以在文件被修改时重新创建 a
 
 装备上后在控制台可以看见这个物品的 menu 名称（只有 InoryS 版才会显示）
 
-方法 2：在安装 SybarisArcEditor（在英文工具包里） 的情况下，在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。
+方法 2：在编辑模式一起按下 M O D 三个键，左上角就会有一个导出，此时装备一个物品，然后点导出，就能看到文件名。（这是制作公式 MOD 用的功能，不过我们只是用来看一下文件名）
 
 方法 3：用 AccEX 插件（F12）点导出时也会显示文件名.
 
 #### 提取文件
 
-官方物品都打包在 .arc 文件内，用 SybarisArcEditor 可以打开这种文件。
+官方物品都打包在 .arc 文件内，使用 SybarisArcEditor 可以打开 .arc 文件，因我们使用该工具从游戏的 .arc 文件内提取这个袜子的相关文件。
 
-由于是官方物品，我们需要使用 SybarisArcEditor 从游戏文件内提取这个袜子的相关文件。
-
-如果你没有这个，去首页的英文工具包里找到，然后把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了，该程序会自行查找游戏的 .arc 文件。
+如果你没有这个，去首页的英文工具包里找到，然后把 SybarisArcEditor.exe 放到 COM3D2.exe 旁边就行了，该程序会自行查找游戏的所有 .arc 文件。
 
 ![图片](https://github.com/user-attachments/assets/68c9f72a-2dcc-4dc6-80ad-0bcdbd06deec)
 
