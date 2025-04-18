@@ -111,16 +111,39 @@ MaidLoader 有一个 QuickMod 功能，可以在文件被修改时重新创建 a
 
 其实游戏官方是有 MOD 支持的。
 
-这个官方支持就是 `.mod`  格式的文件，只要把它放进 MOD 文件夹就可以生效。
+从 CM3D2 v1.0.4 开始，在编辑界面同时按下 M O D 三个键，就会出现一个导出选项，这个就是官方提供的功能。
 
-不过这个 “官方支持” 并不算非常全面，许多高级需求（如覆盖已有文件、动态刷新等）必须通过其他办法才能实现。
+这个官方支持就是 `.mod`  格式的文件，只要把它放进 MOD 文件夹就可以生效。称之为公式 MOD/官方 MOD。其他方式实现的 MOD 称之为非公式 MOD/非官方 MOD。
+
+不过这个官方支持并不算非常全面，最开始官方只打算让你修改贴图，没有修改模型等功能。许多高级需求（如覆盖已有文件、动态刷新等）必须通过其他办法才能实现。
+
+因此，玩家们在思考如何制作自己的模型等等，而不是仅仅修改贴图。
+
+于是乎出现了 Sybaris 等工具，可以直接加载官方格式的的文件，而不是有限制的 .mod。
+
+为了修改模型，2015 年 8 月 6 日，saidenka 大神开始着手开发 blender 插件。[来源](https://github.com/CM3D2user/Blender-CM3D2-Converter/commits/master/?after=add1bc104633837cb7a0574ca30b73992de1dc6f+979)
+
+在 2015 年 10 月前发布的 [CM3D2 v1.11](https://www.kisskiss.tv/cm3d2/update.php) 版本中，官方添加了可以从 MOD 文件夹中直接读取 `*.menu,*.model,*.mate,*.anm,*.tex` 文件的能力
+
+![图片](https://github.com/user-attachments/assets/326ab08f-1f6c-419f-83b5-580182a77553)
+
+然而在 2015 年 10 月 30 日，官方才提供了在 Metasequoia 建模软件中修改模型的方法[来源](https://www.kisskiss.tv/kiss/diary.php?no=598)
+
+总之就是公式 MOD 限制太多，在社区发明出替代方案以后，就没有多少人使用公式 MOD 了，官方也知道这一点，添加了支持直接读取原格式的功能。
+
+于是呢，大家都去制作非公式 MOD 了。
+
+最终，KISS 对公式 MOD 的制作支持与 2023 年 1 月 20 日结束。
+
 <br>
 
-所以呢出现了  [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件，现在已经不使用 `.mod` 格式的 MOD 了。
+来到 COM3D2 时代，更是没有人使用 .mod 了。
+
+这次出现了 [Modloader](https://github.com/Neerhom/COM3D2.ModLoader) 插件
 
 它直接拦截官方读取文件的函数，让游戏在访问文件系统时先检查 ModLoader 的目录与缓存，如果没有再从官方路径中查找，从而允许我们直接加载几乎任何官方物品格式的文件。(.menu .mate 之类的)(还可以覆盖官方的文件)
 
-因此官方物品有什么功能，我们就可以使用什么功能，不用再使用官方功能受限的 `.mod` 格式。
+因此官方物品有什么功能，我们就可以使用什么功能。
 
 因此做 MOD 的底层逻辑，其实就是对官方物品进行逆向，学习官方是怎么做的，从而做出自己的物体。
 
@@ -131,12 +154,6 @@ MaidLoader 有一个 QuickMod 功能，可以在文件被修改时重新创建 a
  - [https://github.com/Pain-Brioche/COM3D2.MaidLoader](https://github.com/Pain-Brioche/COM3D2.MaidLoader)
 
 <br>
-
-不过呢其实，在 [CM3D2 v1.11](https://www.kisskiss.tv/cm3d2/update.php) 版本，官方就添加了可以从 MOD 文件夹中直接读取 `*.menu,*.model,*.mate,*.anm,*.tex` 的能力
-
-所以部分 MOD 其实不需要 Modloader 也能读取
-
-![图片](https://github.com/user-attachments/assets/326ab08f-1f6c-419f-83b5-580182a77553)
 
 但是我们仍然需要 Modloader 来做一些覆盖官方文件的操作等等。
 
