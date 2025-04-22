@@ -113,7 +113,13 @@ MaidLoader 有一个 QuickMod 功能，可以在文件被修改时重新创建 a
 
 从 CM3D2 v1.0.4 开始，在编辑界面同时按下 M O D 三个键，就会出现一个导出选项，这个就是官方提供的功能。
 
-这个官方支持就是 `.mod`  格式的文件，只要把它放进 MOD 文件夹就可以生效。称之为公式 MOD/官方 MOD。其他方式实现的 MOD 称之为非公式 MOD/非官方 MOD。
+这个官方支持就是 `.mod`  格式的文件，只要把它放进 MOD 文件夹就可以生效。
+
+.mod格式的 MOD 称之为公式 MOD/官方 MOD。
+
+其他格式/方式实现的 MOD 称之为非公式 MOD/非官方 MOD。
+
+<br>
 
 不过这个官方支持并不算非常全面，最开始官方只打算让你修改贴图，没有修改模型等功能。许多高级需求（如覆盖已有文件、动态刷新等）必须通过其他办法才能实现。
 
@@ -121,11 +127,15 @@ MaidLoader 有一个 QuickMod 功能，可以在文件被修改时重新创建 a
 
 于是乎出现了 Sybaris 等工具，可以直接加载官方格式的的文件，而不是有限制的 .mod。
 
-为了修改模型，2015 年 8 月 6 日，saidenka 大神开始着手开发 blender 插件。[来源](https://github.com/CM3D2user/Blender-CM3D2-Converter/commits/master/?after=add1bc104633837cb7a0574ca30b73992de1dc6f+979)
+<br>
 
-在 2015 年 10 月前发布的 [CM3D2 v1.11](https://www.kisskiss.tv/cm3d2/update.php) 版本中，官方添加了可以从 MOD 文件夹中直接读取 `*.menu,*.model,*.mate,*.anm,*.tex` 文件的能力
+为了修改模型，2015 年 8 月 6 日，saidenka 大神开始着手开发 Blender-CM3D2-Converter 插件。[来源](https://github.com/CM3D2user/Blender-CM3D2-Converter/commits/master/?after=add1bc104633837cb7a0574ca30b73992de1dc6f+979)
+
+而后在 2015 年 10 月前发布的 [CM3D2 v1.11](https://www.kisskiss.tv/cm3d2/update.php) 版本中，官方添加了可以从 MOD 文件夹中直接读取 `*.menu,*.model,*.mate,*.anm,*.tex` 文件的能力
 
 ![图片](https://github.com/user-attachments/assets/326ab08f-1f6c-419f-83b5-580182a77553)
+
+从此非公式 MOD 的读取有了官方支持。
 
 然而在 2015 年 10 月 30 日，官方才提供了在 Metasequoia 建模软件中修改模型的方法[来源](https://www.kisskiss.tv/kiss/diary.php?no=598)
 
