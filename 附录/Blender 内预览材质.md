@@ -14,7 +14,7 @@
 
 这个始终是 CM3D2 Converter 插件模拟的，不能完全代表游戏内渲染
 
-所以我们还是直接把 CM3D2 shader 的线断开，然后把贴图拖进来，直接连到材质输出比较方便
+所以我们还是直接把 CM3D2 shader 的线断开，然后把贴图拖进来（不能读 tex，转成图片再拖），直接连到材质输出比较方便
 
 ![图片](https://github.com/user-attachments/assets/4e3374b4-da2d-4c5b-91e1-a6535811cf98)
 
