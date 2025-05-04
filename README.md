@@ -194,8 +194,16 @@ Blender 是一个开源的建模软件
    - `Sybaris\UnityInjector\`
    - [https://ux.getuploader.com/cm3d2_k/download/88](https://ux.getuploader.com/cm3d2_k/download/88)
 
+ - ATCC（用于调整物品附着点，在游戏内可视化调整物品附着点坐标，然后可以填到 menu 内固化）
+   - `Sybaris\UnityInjector\`
+   - [https://uu.getuploader.com/hatena37/download/109](https://uu.getuploader.com/hatena37/download/109)
+
  - 本人的插件汉化
    - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
+
+ - motimoti 博客的插件收集
+   - [https://motimoti3d.jp/blog-entry-590.html](https://motimoti3d.jp/blog-entry-590.html)
+   - [https://motimoti3d.jp/blog-entry-37.html](https://motimoti3d.jp/blog-entry-37.html)
   
 #### 错误处理插件
 制作 MOD 时总会遇到错误，可以说是必装了
