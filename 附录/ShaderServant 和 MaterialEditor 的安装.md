@@ -1,5 +1,7 @@
 # 再见了所有的 NPRShader 插件
 
+更换后如何玩场景 MOD：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing)
+
 ## 什么是 NPRShader 插件
 
 NPRShader.Plugin 是一个添加额外着色器的插件，它往游戏内添加了自己同名的 NPRShader 着色器，且只能添加自己的 NPRShader 着色器。
