@@ -65,7 +65,7 @@ ss 提供一个简单且非侵入式的外部着色器加载器，同时还支�
 
 2. 去这里下载 ShaderServant [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
-    (给 COM3D2.5 使用的 还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1354851389230289068](https://discord.com/channels/297072643797155840/736350853442699284/1354851389230289068))
+    (给 COM3D2.5 使用的还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1370052101471731732](https://discord.com/channels/297072643797155840/736350853442699284/1370052101471731732)，不过你都用 2.5 了，我建议直接用 [CMI](https://github.com/krypto5863/COM-Modular-Installer) 会更可靠）
 
 3. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
   
@@ -97,11 +97,16 @@ ss 提供一个简单且非侵入式的外部着色器加载器，同时还支�
 
 ![图片](https://github.com/user-attachments/assets/1c0c73dd-756e-48ac-9763-9f9d825795d3)
 
-5. 把 COM3D2.ME.zip 里面的 .dll 都放到 `COM3D2\BepInEx\plugins` （检查你之前也没有装过一样的，如果有，而且你不懂，建议覆盖）
+5. 把 COM3D2.ME.zip 里面的 .dll 都放到 `COM3D2\BepInEx\plugins`
+   
+    （检查你之前也没有装过一样的，如果有，而且你不懂，建议覆盖）
+   
+    （这个包里的 ShaderServant 和 Github 上面的不一样，必须用这个版本）
 
-6. 去这里下载 [https://github.com/Perdition-117/COM3D2.EditBodyLoadFix](https://github.com/Perdition-117/COM3D2.EditBodyLoadFix)
 
-7. 把 COM3D2.EditBodyLoadFix.dll 放到 `COM3D2\BepInEx\plugins`
+8. 去这里下载 [https://github.com/Perdition-117/COM3D2.EditBodyLoadFix](https://github.com/Perdition-117/COM3D2.EditBodyLoadFix)
+
+9. 把 COM3D2.EditBodyLoadFix.dll 放到 `COM3D2\BepInEx\plugins`
 
 
 ## ShaderServant 添加额外着色器
