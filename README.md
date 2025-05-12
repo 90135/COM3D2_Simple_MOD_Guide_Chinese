@@ -24,6 +24,10 @@
 
 图片直接上传到 github，加载慢/加载不了请自备上网工具。
 
+没有上网工具可以尝试使用 [瓦特工具箱](https://steampp.net/) 或者尝试羽翼城大佬的 [Steamcommunity 302](https://www.dogfight360.com/blog/18682/) 工具
+
+<br>
+
 建议访问 gitbook 获得更佳阅读体验：
 
 [https://90135.gitbook.io/com3d2_simple_mod_guide_chinese](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese)
