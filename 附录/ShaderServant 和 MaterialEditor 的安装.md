@@ -1,6 +1,6 @@
 # 再见了所有的 NPRShader 插件
 
-访问 github 已获得更佳阅读体验：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
+访问 gitbook 以获得更佳阅读体验：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
 
 更换后如何玩场景 MOD：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing)
 
