@@ -24,7 +24,7 @@
 
 图片直接上传到 github，加载慢/加载不了请自备上网工具。
 
-没有上网工具可以尝试使用 [瓦特工具箱](https://steampp.net/) 或者尝试羽翼城大佬的 [Steamcommunity 302](https://www.dogfight360.com/blog/18682/) 工具
+没有上网工具可以尝试使用 [瓦特工具箱](https://steampp.net/) 或者尝试羽翼城大佬的 [Steamcommunity 302](https://www.dogfight360.com/blog/18682/) 工具，或者 [FastGitHub](https://github.com/WangGithubUser/FastGitHub)
 
 <br>
 
