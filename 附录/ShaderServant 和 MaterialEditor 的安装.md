@@ -1,5 +1,7 @@
 # 再见了所有的 NPRShader 插件
 
+访问 github 已获得更佳阅读体验：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
+
 更换后如何玩场景 MOD：[https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/com3d2_guide/ru-he-wan-chang-jing-mod-shaderservant-ru-he-wan-chang-jing)
 
 ## 什么是 NPRShader 插件
@@ -61,19 +63,26 @@ ss 提供一个简单且非侵入式的外部着色器加载器，同时还支�
 
 如果你真的不知道，Github 下载一般在仓库主页右边的 Releases 标签中，点进去 Releases 后，在 Assets 标签中有下载；如果要下载整个仓库，点击仓库主页绿色的 Code 按钮，然后点击 Download ZIP。
 
+如果你打算安装 MaterialEditor，可以跳过下载部分，因为 MaterialEditor 包内有这个。
+
 1. 在你的文件夹里面搜索 `COM3D2.NPRShader.Managed.dll.`、`COM3D2.NPRShader.Patcher.dll`、`COM3D2.NPRShader.Plugin.dll` 然后删除
 
 2. 去这里下载 ShaderServant [https://github.com/krypto5863/COM3D2.ShaderServant](https://github.com/krypto5863/COM3D2.ShaderServant)
 
-    (给 COM3D2.5 使用的还没正式发布，需要到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1370052101471731732](https://discord.com/channels/297072643797155840/736350853442699284/1370052101471731732)，不过你都用 2.5 了，我建议直接用 [CMI](https://github.com/krypto5863/COM-Modular-Installer) 会更可靠）
+```
+ 给 COM3D2.5 使用的还没正式发布，需要到 Discord 下载
+ 先加入 Discord 频道：https://discord.gg/custommaid
+ 然后再打开：https://discord.com/channels/297072643797155840/736350853442699284/1370051971687518408
+ 不过你都用 2.5 了，我建议直接用 CMI：https://github.com/krypto5863/COM-Modular-Installer 会更可靠
+```
 
-3. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
+4. 去这里下载 CM3D2.Serialization [https://github.com/luvoid/CM3D2.Serialization](https://github.com/luvoid/CM3D2.Serialization)
   
-4. 解压 ShaderServant.zip 得到 COM3D2.ShaderServant.dll 放进 `COM3D2\BepInEx\plugins`
+5. 解压 ShaderServant.zip 得到 COM3D2.ShaderServant.dll 放进 `COM3D2\BepInEx\plugins`
 
-5. 解压 ShaderServant.zip 得到 ShaderServantPacks 文件夹，把 ShaderServantPacks 文件夹放进游戏根目录
+6. 解压 ShaderServant.zip 得到 ShaderServantPacks 文件夹，把 ShaderServantPacks 文件夹放进游戏根目录
 
-6. CM3D2.Serialization.dll 放进 `COM3D2\BepInEx\plugins`
+7. CM3D2.Serialization.dll 放进 `COM3D2\BepInEx\plugins`
 
 
 ## 安装 MaterialEditor（可选）
@@ -87,17 +96,18 @@ ss 提供一个简单且非侵入式的外部着色器加载器，同时还支�
 1. 加入 Discord 频道 [https://discord.gg/custommaid](https://discord.gg/custommaid)
 
 2. 打开 [https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336](https://discord.com/channels/297072643797155840/736350853442699284/1318388889169166336)
+    - 如果你是 2.5，到这里下载 [https://discord.com/channels/297072643797155840/736350853442699284/1370051971687518408](https://discord.com/channels/297072643797155840/736350853442699284/1370051971687518408)
 
-3. 下载这两个包
-![图片](https://github.com/user-attachments/assets/0e1d0393-d950-4ab8-a998-31c6b2a2972f)
+4. 下载这两个包
+    ![图片](https://github.com/user-attachments/assets/0e1d0393-d950-4ab8-a998-31c6b2a2972f)
 
-4. 把 MaterialEditorDefinitions.zip 里面的 MaterialEditorDefinitions 文件夹放到游戏根目录
+5. 把 MaterialEditorDefinitions.zip 里面的 MaterialEditorDefinitions 文件夹放到游戏根目录
 
-![图片](https://github.com/user-attachments/assets/c01e96ec-2191-4192-9b05-bc5ee120bd4e)
+    ![图片](https://github.com/user-attachments/assets/c01e96ec-2191-4192-9b05-bc5ee120bd4e)
+    
+    ![图片](https://github.com/user-attachments/assets/1c0c73dd-756e-48ac-9763-9f9d825795d3)
 
-![图片](https://github.com/user-attachments/assets/1c0c73dd-756e-48ac-9763-9f9d825795d3)
-
-5. 把 COM3D2.ME.zip 里面的 .dll 都放到 `COM3D2\BepInEx\plugins`
+6. 把 COM3D2.ME.zip 里面的 .dll 都放到 `COM3D2\BepInEx\plugins`
    
     （检查你之前也没有装过一样的，如果有，而且你不懂，建议覆盖）
    
