@@ -7,7 +7,8 @@ gitbook 上看这个会迷惑
 ![图片](https://github.com/user-attachments/assets/eaf1f4e6-6fc4-49c6-8cc7-546eb230af2e)
 
 # COM3D2.AlwaysColorChangeEx.Plugin.dll
-不知道从何而来的修改版 COM3D2.AlwaysColorChangeEx.Plugin 插件，比市面上的版本支持的着色器更多。
+
+不知道从何而来的修改版 COM3D2.AlwaysColorChangeEx.Plugin 插件 v0.3.2.1，比市面上的版本支持的着色器更多。
 
 安装路径 `COM3D2\Sybaris\UnityInjector\`
 
