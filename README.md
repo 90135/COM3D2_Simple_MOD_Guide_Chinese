@@ -267,7 +267,7 @@ Blender 是一个开源的建模软件
 
 这几个站点会爬取 Twitter 推文，有的站不会收录有裸露图像的推文，比如 motimoti。
 
-相对来说 mukuu.herokuapp.com 会全一些，不过我比较喜欢 motimoti3d.jp。
+相对来说 mukuu.herokuapp.com 会全一些，不过我比较喜欢 motimoti3d.jp，motimoti3d 还有插件收集等内容。
 
    - [https://motimoti3d.jp/](https://motimoti3d.jp/)
    - [https://mods.meido.dev/](https://mods.meido.dev/)
@@ -280,8 +280,10 @@ Blender 是一个开源的建模软件
  - [https://github.com/luvoid/COM3D2-All-Bout-Bones](https://github.com/luvoid/COM3D2-All-Bout-Bones)
 
 ## 其他可以参考的教程
+在学完本仓库的基础后，可以查看 ymk 移植教程，里面有很多技巧。
+
+ - [ymk移植教程（进阶）-图文](https://drive.google.com/drive/folders/1o0k9QREGKRmVlEr5WZSNUvBd7773ulN-)
  - [zaj2001杂酱教程-视频](https://www.bilibili.com/video/BV1tu411R7TV/)
- - [ymk移植教程-图文](https://drive.google.com/drive/folders/1o0k9QREGKRmVlEr5WZSNUvBd7773ulN-)
  - [BDFFZI教程-图文](https://bdffzi-blog.netlify.app/posts/2633666094)
  - [BDFFZI教程-视频](https://www.bilibili.com/video/BV148411i7uy/)
  - [zoobot移植教程备份（英文/不完整）](https://github.com/AbsoluteOmega/How-to-port-character-model-to-COM3D2)
