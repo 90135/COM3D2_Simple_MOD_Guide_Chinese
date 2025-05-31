@@ -1,26 +1,25 @@
- # COM3D2 简明 MOD 教程
+# COM3D2 中文 MOD 教程
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
 
-基于案例教学，从原理明白为什么（大概吧）
+由于有越来越多的作者贡献教程，本仓库转为更通用的 MOD 教程仓库。
+
+包含多位作者的教程，仓库也从个人名下转移至组织。
+
+为了使旧连接尽量不失效，仓库命名以及 gitbook 地址未更改，敬请谅解。
 
 <br>
 
-个人水平有限，如有错误还恳请各位斧正
+本文档是开源的，欢迎各位作者进行贡献！
+
+您可以通过 QQ 群联系，或直接发送 Pull Request
 
 <br>
 
-本文档是开源的，欢迎贡献
+欢迎提问，请加群或者使用 Issue 或 Discussions
 
 <br>
 
-欢迎提问，加群或者使用 Issue 或 Discussions
-
-<br>
-
-我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
-
-包括附录中也有很多知识，别忘了。
 
 ## 阅读地址
 
@@ -38,10 +37,32 @@
 
 或者你也可以直接点本仓库里的 .md 文件阅读，项目地址：
 
-[https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
+[https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
 
-## 目录
+<br>
 
+
+## 目录及说明
+
+### 附录
+
+附录中也有很多知识，别忘了。
+
+- [Blender CM3D2 Converter 插件去除机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-cm3d2-converter-cha-jian-qu-chu-ji-fan)
+- [.menu文件的组成](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/.menu-wen-jian-de-zu-cheng)
+- [BepInEx.ScriptLoader 插件修复](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/bepinex.scriptloader-cha-jian-zhi-jiao-ben-xiu-fu)
+- [Blender 内预览材质](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-nei-yu-lan-cai-zhi)
+- [Blender 形态键批量删除脚本](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-xing-tai-jian-pi-liang-shan-chu-jiao-ben)
+- [ShaderServant 和 MaterialEditor 的安装](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
+- [网页机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/wang-ye-ji-fan)
+
+### 90135
+
+**新手入门请从这里学起**
+
+我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
+
+#### 90135 的 COM3D2 简明 MOD 教程
  - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
  - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
  - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
@@ -49,29 +70,32 @@
  - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
  - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
 
+
+### 流转的四季
+
+- [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng/liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
+
+### 无名
+
+- [发光及呼吸灯教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/fa-guang-ji-hu-xi-deng-jiao-cheng/fa-guang-ji-hu-xi-deng-jiao-cheng)
+- [基础anm动画教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/ji-chu-anm-dong-hua-jiao-cheng/ji-chu-anm-dong-hua-jiao-cheng)
+- [如何使物体绕自己中心旋转](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/ru-he-shi-wu-ti-rao-zi-ji-zhong-xin-xuan-zhuan/ru-he-shi-wu-ti-rao-zi-ji-zhong-xin-xuan-zhuan)
+- [摇曳骨教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/yao-ye-gu-jiao-cheng/yao-ye-gu-jiao-cheng)
+- [材质基础教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/cai-zhi-ji-chu-jiao-cheng/cai-zhi-ji-chu-jiao-cheng)
+- [裹缩权重](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/guo-suo-quan-zhong/guo-suo-quan-zhong)
+
 <br>
-
- - 客座教程
-   - 流转的四季
-     - [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng/liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
-
-<br>
-
- - 附录，有很多知识哟
-   - [Blender CM3D2 Converter 插件去除机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-cm3d2-converter-cha-jian-qu-chu-ji-fan)
-   - [.menu文件的组成](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/.menu-wen-jian-de-zu-cheng)
-   - [BepInEx.ScriptLoader 插件修复](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/bepinex.scriptloader-cha-jian-zhi-jiao-ben-xiu-fu)
-   - [Blender 内预览材质](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-nei-yu-lan-cai-zhi)
-   - [Blender 形态键批量删除脚本](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-xing-tai-jian-pi-liang-shan-chu-jiao-ben)
-   - [ShaderServant 和 MaterialEditor 的安装](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
-   - [网页机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/wang-ye-ji-fan)
 
 ## 交流群
 
-欢迎提问
+欢迎提问，请勿私信提问
+
+建议优先 QQ
 
  - QQ 967954608 加群暗号 MOD
  - Discord https://discord.gg/XQVfcJWbPp
+
+<br>
 
 ## 用到的工具
 
