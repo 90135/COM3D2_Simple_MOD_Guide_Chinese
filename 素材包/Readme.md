@@ -41,7 +41,13 @@ CustomJsonWriter.csは、JsonFxのソースを元にしています。
 
 ## [COM3D2]English Mod Tools Pack 2.20.2024.zip
 
-英文工具大包，有各种各样的工具
+内含各种各样的工具，其中最重要的是 SybarisArcEditor.exe
+有几个工具会报毒，不放心可以改用我编写的工具，但是剩下的工具还是要用的
+此包中的工具有些修改过，和 github 上的不太一样，建议使用此包
+几个下载连接内容相同
+
+<br>
+
 
 ## hh_anm
 
