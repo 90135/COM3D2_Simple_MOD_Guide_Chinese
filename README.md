@@ -64,13 +64,13 @@
 
 我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
 
-#### 90135 的 COM3D2 简明 MOD 教程
- - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
- - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
- - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
- - [第 4 课，用形态键或 .anm 让物品动起来](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-4-ke-yong-xing-tai-jian-huo-anm-rang-wu-pin-dong-qi-lai)
- - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
- - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
+- 90135 的 COM3D2 简明 MOD 教程
+  - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
+  - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
+  - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
+  - [第 4 课，用形态键或 .anm 让物品动起来](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-4-ke-yong-xing-tai-jian-huo-anm-rang-wu-pin-dong-qi-lai)
+  - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
+  - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
 
 
 ### 流转的四季
