@@ -10,7 +10,7 @@
 
 <br>
 
-本文档是开源的，欢迎各位作者进行贡献！
+这些文档是开源的，欢迎各位作者进行贡献！
 
 您可以通过 QQ 群联系，或直接发送 Pull Request
 
@@ -19,7 +19,6 @@
 欢迎提问，请加群或者使用 Issue 或 Discussions
 
 <br>
-
 
 ## 阅读地址
 
@@ -33,11 +32,13 @@
 
 [https://90135.gitbook.io/com3d2_simple_mod_guide_chinese](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese)
 
+请别急着点开教程，往主页下面看看
+
 <br>
 
 或者你也可以直接点本仓库里的 .md 文件阅读，项目地址：
 
-[https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
+[https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
 
 <br>
 
@@ -55,6 +56,7 @@
 - [Blender 形态键批量删除脚本](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/blender-xing-tai-jian-pi-liang-shan-chu-jiao-ben)
 - [ShaderServant 和 MaterialEditor 的安装](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/shaderservant-he-materialeditor-de-an-zhuang)
 - [网页机翻](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/wang-ye-ji-fan)
+- [游戏内传输形态键](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/fu-lu/you-xi-nei-chuan-shu-xing-tai-jian)
 
 ### 90135
 
@@ -63,17 +65,17 @@
 我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
 
 #### 90135 的 COM3D2 简明 MOD 教程
- - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
- - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
- - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
- - [第 4 课，用形态键或 .anm 让物品动起来](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-4-ke-yong-xing-tai-jian-huo-anm-rang-wu-pin-dong-qi-lai)
- - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
- - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
+ - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
+ - [第 2 课，初次修改模型之简易修改袜子穿模](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-2-ke-chu-ci-xiu-gai-mo-xing-zhi-jian-yi-xiu-gai-wa-zi-chuan-mo)
+ - [第 3 课，移植小物件之特定于妹抖的东西](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-3-ke-yi-zhi-xiao-wu-jian-zhi-te-ding-yu-mei-dou-de-dong-xi)
+ - [第 4 课，用形态键或 .anm 让物品动起来](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-4-ke-yong-xing-tai-jian-huo-anm-rang-wu-pin-dong-qi-lai)
+ - [第 5 课，做一双 HighHell 插件高跟鞋](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-5-ke-zuo-yi-shuang-highhell-cha-jian-gao-gen-xie)
+ - [第 6 课，使用摇曳骨让物体有物理效果](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-6-ke-shi-yong-yao-ye-gu-rang-wu-ti-you-wu-li-xiao-guo)
 
 
 ### 流转的四季
 
-- [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/ke-zuo-jiao-cheng/liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
+- [移植脸参考教程By流转的四季](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/liu-zhuan-de-si-ji/yi-zhi-lian-can-kao-jiao-cheng-by-liu-zhuan-de-si-ji)
 
 ### 无名
 
@@ -105,12 +107,13 @@
  - 没有上网工具基本寸步难行
 
 ### MOD 工具
+
+ - 本人编写的全功能 MOD 制作工具
+   - [https://github.com/90135/COM3D2_MOD_EDITOR](https://github.com/90135/COM3D2_MOD_EDITOR)
+
  - English Modding Tools Pack 英文改装工具包（有几个工具会报毒，不放心可以改用我编写的工具，但是剩下的工具还是要用的）（此包中的工具有些修改过，和 github 上的不太一样，建议使用此包）
    - [https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145](https://discord.com/channels/297072643797155840/865160223118196737/871444415498031145)
    - [https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file](https://www.mediafire.com/file/na4751q6nctytpx/%5BCOM3D2%5DEnglish_Mod_Tools_Pack_2.20.2024.zip/file)
-  
- - 本人编写的 MOD 制作工具
-   - [https://github.com/90135/COM3D2_MOD_EDITOR](https://github.com/90135/COM3D2_MOD_EDITOR)
      
 ### Blender 相关
 
@@ -143,12 +146,12 @@ Blender 是一个开源的建模软件
    - [https://www.bilibili.com/video/av355541649](https://www.bilibili.com/video/av355541649)
 
  - Blender 界面介绍
-   - https://www.bilibili.com/video/av113832639136668
+   - [https://www.bilibili.com/video/av113832639136668](https://www.bilibili.com/video/av113832639136668)
 
  - UV 和材质教程
    - [https://www.bilibili.com/video/av385242165](https://www.bilibili.com/video/av385242165)
-   - https://www.bilibili.com/video/av926436454
-   - https://www.bilibili.com/video/av950602700
+   - [https://www.bilibili.com/video/av926436454](https://www.bilibili.com/video/av926436454)
+   - [https://www.bilibili.com/video/av950602700](https://www.bilibili.com/video/av950602700)
 
  - 比较系统的课
    - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
@@ -157,7 +160,7 @@ Blender 是一个开源的建模软件
  - 理解 Blender 中的对象
    - [https://www.bilibili.com/video/BV1KCPuegELm/](https://www.bilibili.com/video/BV1KCPuegELm/)
 
- - 辣椒酱系统课（太细致了，需要深入 Blender 时看）
+ - 辣椒酱系统课（需要深入 Blender 时看）
    - [https://www.bilibili.com/video/av205836298](https://www.bilibili.com/video/av205836298)
 
 
@@ -233,8 +236,8 @@ Blender 是一个开源的建模软件
    - `Sybaris\UnityInjector\`
    - [https://uu.getuploader.com/hatena37/download/109](https://uu.getuploader.com/hatena37/download/109)
 
- - 本人的插件汉化
-   - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
+ - 插件汉化
+   - [COM3D2 插件中文翻译](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
 
  - motimoti 博客的插件收集
    - [https://motimoti3d.jp/blog-entry-590.html](https://motimoti3d.jp/blog-entry-590.html)
@@ -314,10 +317,11 @@ Blender 是一个开源的建模软件
  - [BDFFZI教程-视频](https://www.bilibili.com/video/BV148411i7uy/)
  - [zoobot移植教程备份（英文/不完整）](https://github.com/AbsoluteOmega/How-to-port-character-model-to-COM3D2)
 
-## 也可以看看我的其他仓库
+## 也可以看看其他仓库
 
- - [COM3D2 简明 MOD 教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
- - [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
- - [COM3D2 插件中文翻译](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
- - [90135 的 COM3D2 中文指北](https://github.com/90135/COM3D2_GUIDE_CHINESE)
- - [901 的 COM3D2 脚本收藏集](https://github.com/90135/COM3D2_Scripts_901)
+- [COM3D2 中文 MOD 教程](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
+- [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
+- [COM3D2 插件中文翻译](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
+- [90135 的 COM3D2 中文指北](https://github.com/90135/COM3D2_GUIDE_CHINESE)
+- [90135 的 COM3D2 脚本收藏集](https://github.com/90135/COM3D2_Scripts_901)
+- [90135 的 COM3D2 工具](https://github.com/90135/COM3D2_Tools_901)
