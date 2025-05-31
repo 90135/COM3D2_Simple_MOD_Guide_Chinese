@@ -90,11 +90,8 @@
 
 ## 交流群
 
-欢迎提问，请勿私信提问
+欢迎提问，但请勿私信提问
 
-建议优先 QQ
-
- - QQ 967954608 加群暗号 MOD
  - Discord https://discord.gg/XQVfcJWbPp
 
 <br>
