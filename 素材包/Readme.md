@@ -12,7 +12,7 @@ gitbook 上看这个会迷惑
 ![图片](https://github.com/user-attachments/assets/eaf1f4e6-6fc4-49c6-8cc7-546eb230af2e)
 
 
-# COM3D2.AlwaysColorChangeEx.Plugin.dll
+## COM3D2.AlwaysColorChangeEx.Plugin.dll
 
 不知道从何而来的修改版 COM3D2.AlwaysColorChangeEx.Plugin 插件 v0.3.2.1，比市面上的版本支持的着色器更多。
 
@@ -36,11 +36,13 @@ CustomJsonWriter.csは、JsonFxのソースを元にしています。
 また、KISS公式の利用規約から逸脱した利用はお控えください
 ```
 
-# [COM3D2]English Mod Tools Pack 2.20.2024.zip
+<br>
+
+## [COM3D2]English Mod Tools Pack 2.20.2024.zip
 
 英文工具大包，有各种各样的工具
 
-# hh_anm
+## hh_anm
 
 ymk 老师制作的 13d、20d、27d、34d 高度高跟鞋的 .anm 文件
 
@@ -49,14 +51,30 @@ ymk 老师制作的 13d、20d、27d、34d 高度高跟鞋的 .anm 文件
 已获授权
 
 
-# 参考移植脸脸模.7z
+<br>
+
+## 参考移植脸脸模.7z
 
 四季老师的移植脸参考脸模
 
 已获授权
 
 
-# MOD 资源
+<br>
+
+## 无名 文件夹
+
+### 摇曳骨教程附件.7z
+内含
+
+- 常用形态键总集成（t站姿）.model
+- 常用形态键总集成（马桶坐）.model
+- 裙骨素体.model
+
+<br>
+
+
+## MOD 资源
 
  - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
    - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
