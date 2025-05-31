@@ -1,15 +1,16 @@
-**更多资源请看[仓库首页](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)，这里只放一些没有公共下载链接的东西**
+**更多资源请看[仓库首页](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)，这里只放一些没有公共下载链接的东西**
 
 <br>
 <br>
 
-gitbook 上看这个会迷惑
-
-点这里看 [https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
+Gitbook 上看这个会迷惑，请点击[这里](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)前往 Github 查看
 
 文件在上面下载，点进文件后点这个下载
 
 ![图片](https://github.com/user-attachments/assets/eaf1f4e6-6fc4-49c6-8cc7-546eb230af2e)
+
+<br>
+<br>
 
 
 ## COM3D2.AlwaysColorChangeEx.Plugin.dll
