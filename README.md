@@ -1,5 +1,7 @@
  # COM3D2 简明 MOD 教程
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
+
 基于案例教学，从原理明白为什么（大概吧）
 
 <br>
