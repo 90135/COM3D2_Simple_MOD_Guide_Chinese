@@ -1,6 +1,6 @@
 # COM3D2 中文 MOD 教程
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
 
 由于有越来越多的作者贡献教程，本仓库转为更通用的 MOD 教程仓库。
 
@@ -12,7 +12,7 @@
 
 这些文档是开源的，欢迎各位作者进行贡献！
 
-您可以通过 QQ 群联系，或直接发送 Pull Request
+您可以通过群联系，或直接发送 Pull Request
 
 <br>
 
@@ -92,7 +92,9 @@
 
 欢迎提问，但请勿私信提问
 
- - Discord https://discord.gg/XQVfcJWbPp
+ - ymk 老师的 QQ 群：1420125923
+ - Discord 英文大群 [https://discord.gg/custommaid](https://discord.gg/custommaid)
+ - Discord 没什么用的群 [https://discord.gg/XQVfcJWbPp](https://discord.gg/XQVfcJWbPp)
 
 <br>
 
