@@ -4,6 +4,7 @@
 
 像 LoBody 改之类的体型，有 400 多个形态键，如果你不删除掉不想要的形态键的话，转移形态键可能要非常久。
 
+<br>
 
 ## Mute 是什么
 
@@ -11,7 +12,7 @@ mute 就是静音，就是取消打勾
 
 ![图片](https://github.com/user-attachments/assets/5241fb7d-8033-4348-b64e-fdd60884c16b)
 
-
+<br>
 
 ## 如何使用
 
@@ -22,6 +23,8 @@ mute 就是静音，就是取消打勾
 然后粘贴下面的脚本并执行
 
 ![图片](https://github.com/user-attachments/assets/9b8c8f57-fe84-44ee-86ef-c1b4dcf5fb9a)
+
+<br>
 
 ## 工作流
 
@@ -36,9 +39,11 @@ mute 就是静音，就是取消打勾
 2. 手动取消 mute 想要的形态键
 3. 使用 `删除所有 mute 的形态键` 脚本
 
-
+<br>
 
 ## 脚本
+
+许可证：The Unlicense
 
 ### 反转形态键的 mute 状态：
 ```
