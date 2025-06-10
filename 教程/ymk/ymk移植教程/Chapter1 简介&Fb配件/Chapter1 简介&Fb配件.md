@@ -160,9 +160,9 @@ maskitem
 
 与上一小节的menu相比，folder多了一个控制颜色的属性。其中_I_eye_003_*.menu代表所有前缀包含 _I_eye_003_的 menu，可以把其中的星号看作任意字符，指向了多个瞳色menu文件，包括 _i_eye_003_mugen.menu和 _i_eye_003_red.menu。
 
-![](./images/85aec29f-722f-47eb-b556-fdbbc269ff67.006.jpeg)重
+![](./images/85aec29f-722f-47eb-b556-fdbbc269ff67.006.jpeg)
 
-命名这三个menu，例如改为：
+重命名这三个menu，例如改为：
 
 - **Sample_folder.menu**
 - **Sample_mugen.menu**
@@ -185,7 +185,6 @@ maskitem
 进入UV编辑模式，选中“Face001\_FB\_EyeLashesTop”材质球，就可以看到上睫毛的UVmap。2d的贴图通过某个映射方式，可以投影到3d的模型上，这种映射方式就是UVMap，简称UV。2d贴图与3d模型的关系，就像地图与地球仪的关系。只有照着UV画贴图，才能够正确的显示在3d模型上。你可以尝试用相同的方式查看fb脸的眼睛的UV，可以看到其UVmap恰好是包含了大部分画布的圆，因此制作眼睛的贴图才这么简单。
 
 ![](./images/85aec29f-722f-47eb-b556-fdbbc269ff67.007.png)
-
 ![](./images/85aec29f-722f-47eb-b556-fdbbc269ff67.008.png)
 
 
