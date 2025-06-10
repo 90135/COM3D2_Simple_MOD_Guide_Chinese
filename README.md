@@ -81,6 +81,7 @@
 
 - [发光及呼吸灯教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/fa-guang-ji-hu-xi-deng-jiao-cheng/fa-guang-ji-hu-xi-deng-jiao-cheng)
 - [基础anm动画教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/ji-chu-anm-dong-hua-jiao-cheng/ji-chu-anm-dong-hua-jiao-cheng)
+- [头发教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/tou-fa-jiao-cheng/tou-fa-jiao-cheng)
 - [如何使物体绕自己中心旋转](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/ru-he-shi-wu-ti-rao-zi-ji-zhong-xin-xuan-zhuan/ru-he-shi-wu-ti-rao-zi-ji-zhong-xin-xuan-zhuan)
 - [摇曳骨教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/yao-ye-gu-jiao-cheng/yao-ye-gu-jiao-cheng)
 - [材质基础教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/cai-zhi-ji-chu-jiao-cheng/cai-zhi-ji-chu-jiao-cheng)
