@@ -86,6 +86,14 @@
 - [材质基础教程](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/cai-zhi-ji-chu-jiao-cheng/cai-zhi-ji-chu-jiao-cheng)
 - [裹缩权重](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/wu-ming/guo-suo-quan-zhong/guo-suo-quan-zhong)
 
+### ymk
+
+- ymk移植教程
+  - [Chapter1 简介&Fb配件](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/ymk/ymk-yi-zhi-jiao-cheng/chapter1-jian-jie-fb-pei-jian/chapter1-jian-jie-fb-pei-jian)
+  - [Chapter2 头发](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/ymk/ymk-yi-zhi-jiao-cheng/chapter2-tou-fa/chapter2-tou-fa)
+  - [Chapter3 服装](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/ymk/ymk-yi-zhi-jiao-cheng/chapter3-fu-zhuang/chapter3-fu-zhuang)
+  - [Chapter4 mate与其他](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/ymk/ymk-yi-zhi-jiao-cheng/chapter4-mate-yu-qi-ta/chapter4-mate-yu-qi-ta)
+
 <br>
 
 ## 交流群
