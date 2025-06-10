@@ -107,13 +107,13 @@
 
 ### MOD 工具
 
- - 本人编写的全功能 MOD 制作工具 
+ - 90135 编写的全功能 MOD 制作工具 
    - 支持所有 mod 文件格式（.menu、.mate、.pmat、.col、.phy、.psk、.tex、.anm、.model）
    - [https://github.com/90135/COM3D2_MOD_EDITOR](https://github.com/90135/COM3D2_MOD_EDITOR)
 
  - English Modding Tools Pack 英文改装工具包 2024.2.20 版
    - 内含各种各样的工具，其中最重要的是 SybarisArcEditor.exe
-   - 有几个工具会报毒，不放心可以改用我编写的工具，但是剩下的工具还是要用的
+   - 有几个工具会报毒，不放心可以改用 90135 编写的工具，但是剩下的工具还是要用的
    - 此包中的工具有些修改过，和 github 上的不太一样，建议使用此包
    - 几个下载连接内容相同
    - [https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese/tree/main/%E7%B4%A0%E6%9D%90%E5%8C%85)
