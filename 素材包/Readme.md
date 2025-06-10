@@ -49,7 +49,7 @@ CustomJsonWriter.csは、JsonFxのソースを元にしています。
 <br>
 
 
-## hh_anm
+## hh_anm.zip
 
 ymk 老师制作的 13d、20d、27d、34d 高度高跟鞋的 .anm 文件
 
@@ -83,6 +83,14 @@ ymk 老师制作的 13d、20d、27d、34d 高度高跟鞋的 .anm 文件
 
 
 ## ymk 文件夹
+
+ ymk 老师提到的其他文件请看[仓库首页](https://github.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
+ 
+ hh_anm.zip 在上一层
+ 
+ SybarisArcEditor 在上一层的 English Mod Tools Pack 内
+ 
+ Menu 编辑器；Mate 编辑器；Pmat 编辑器，其作者禁止非日本人使用，请使用 COM3D2 MOD EDITOR V2 替代（包括 TexTool-TexToPng 工具也可以由此工具替代），此工具可以打开并编辑所有 COM3D2 的 MOD 格式：[https://github.com/MeidoPromotionAssociation/COM3D2_MOD_EDITOR](https://github.com/MeidoPromotionAssociation/COM3D2_MOD_EDITOR)
 
 ### NPR示例mod-NPR_Test_Examples.7z
 
