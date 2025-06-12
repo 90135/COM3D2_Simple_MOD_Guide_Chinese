@@ -195,6 +195,16 @@ COM3D2.HighHeel.Plugin InoryS 版插件，正如其名字，就是用来做高�
 
 ![图片](https://github.com/user-attachments/assets/20833ebf-77a2-4c7d-a799-d316e2942c82)
 
+任何修改器、几何节点、平滑着色等修改都不会保存到 model 中，因为这是 Blender 独有的东西。
+
+必须是实实在在的骨骼、顶点、网格、UV、姿势、形态键、材质才会写入 model，并被游戏使用。
+
+而且并不是 Blender 支持什么游戏就能使用什么，比如多个 UV 通道，COM3D2 并不支持，COM3D2_5 才额外添加了 3 个 UV 通道。
+
+且需要注意顶点数不能超过 65535 个。
+
+<br>
+
 物体选择骨架，你就会发现鞋子也过去了
 
 ![图片](https://github.com/user-attachments/assets/2c6c5f0a-3db9-49b2-a628-e049a635f327)
