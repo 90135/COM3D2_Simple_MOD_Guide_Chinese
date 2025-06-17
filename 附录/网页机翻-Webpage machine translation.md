@@ -1,3 +1,11 @@
+# English
+
+Just use [https://immersivetranslate.com](https://immersivetranslate.com) 
+
+This is a browser plugin that allows you to use Google or AI translation, etc.
+
+# 简体中文
+
 有很多资料都是英文或日文，看不懂就很麻烦。
 
 ## 自备上网工具
@@ -31,3 +39,4 @@
 
 
 ![图片](https://github.com/user-attachments/assets/2cf0d017-66fb-4744-913d-7052aa6b2bec)
+
