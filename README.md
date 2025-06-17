@@ -2,6 +2,12 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
 
+For other language users, just use [https://immersivetranslate.com/en/](https://immersivetranslate.com/en/)
+
+This is a browser plugin that allows you to use Google or AI translation, etc.
+
+<br>
+
 由于有越来越多的作者贡献教程，本仓库转为更通用的 MOD 教程仓库。
 
 包含多位作者的教程，仓库也从个人名下转移至组织。
