@@ -6,6 +6,8 @@ For other language users, just use [https://immersivetranslate.com/en/](https://
 
 This is a browser plugin that allows you to use Google or AI translation, etc.
 
+These documents are open source, and you are welcome to submit translations
+
 <br>
 
 由于有越来越多的作者贡献教程，本仓库转为更通用的 MOD 教程仓库。
@@ -19,6 +21,8 @@ This is a browser plugin that allows you to use Google or AI translation, etc.
 这些文档是开源的，欢迎各位作者进行贡献！
 
 您可以通过群联系，或直接发送 Pull Request
+
+敬请注意仓库许可证
 
 <br>
 
