@@ -2,6 +2,8 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MeidoPromotionAssociation/COM3D2_Simple_MOD_Guide_Chinese)
 
+COM3D2 Chinese MOD Tutorial
+
 For other language users, just use [https://immersivetranslate.com/en/](https://immersivetranslate.com/en/)
 
 This is a browser plugin that allows you to use Google or AI translation, etc.
