@@ -1,6 +1,6 @@
 # English
 
-Just use [https://immersivetranslate.com](https://immersivetranslate.com) 
+Just use [https://immersivetranslate.com/en/](https://immersivetranslate.com/en/)
 
 This is a browser plugin that allows you to use Google or AI translation, etc.
 
