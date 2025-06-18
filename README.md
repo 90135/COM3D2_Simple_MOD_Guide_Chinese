@@ -74,9 +74,11 @@ These documents are open source, and you are welcome to submit translations
 
 **新手入门请从这里学起**
 
-基于案例教学，让你明白原理以及为什么要这么做（大概
+基于案例教学，让你明白原理以及为什么要这么做（大概吧
 
 我建议你完整阅读教程，因为案例教学会有很多知识点散落其中，比如：骨骼跟随原理、以任意姿势导出、为什么表面是黑的……
+
+在学完本课程后可以去看 ymk 老师的移植教程，有很多技巧。
 
 - 90135 的 COM3D2 简明 MOD 教程
   - [第 1 课，MOD 的组成和使用 AlwaysColorChangeEx 插件制作简易换色](https://90135.gitbook.io/com3d2_simple_mod_guide_chinese/jiao-cheng/90135/90135-de-com3d2-jian-ming-mod-jiao-cheng/di-1-ke-mod-de-zu-cheng-he-shi-yong-accex-cha-jian-zhi-zuo-jian-yi-huan-se)
@@ -308,7 +310,7 @@ Blender 是一个开源的建模软件
 
 ### 素材相关
 
- - 本人的 MOD，可以当素材或者示例使用，可以随意修改分发
+ -  90135 的 MOD，可以当素材或者示例使用，可以随意修改分发
    - [https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw](https://mega.nz/folder/QRNxhRRZ#yuoWg3O9OLUHnOF1nwmLDw)
 
  - InoryS 的 MOD，可以当素材或者示例使用，可以随意修改分发（已获同意）
@@ -340,9 +342,8 @@ Blender 是一个开源的建模软件
  - [https://github.com/luvoid/COM3D2-All-Bout-Bones](https://github.com/luvoid/COM3D2-All-Bout-Bones)
 
 ## 其他可以参考的教程
-在学完本仓库的基础后，可以查看 ymk 移植教程，里面有很多技巧。
 
- - [ymk移植教程（进阶）-图文](https://drive.google.com/drive/folders/1o0k9QREGKRmVlEr5WZSNUvBd7773ulN-)
+ - [ymk移植教程-图文(已整合到本仓库)含mod](https://drive.google.com/drive/folders/1o0k9QREGKRmVlEr5WZSNUvBd7773ulN-)
  - [zaj2001杂酱教程-视频](https://www.bilibili.com/video/BV1tu411R7TV/)
  - [BDFFZI教程-图文](https://bdffzi-blog.netlify.app/posts/2633666094)
  - [BDFFZI教程-视频](https://www.bilibili.com/video/BV148411i7uy/)
