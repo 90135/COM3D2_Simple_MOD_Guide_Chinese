@@ -180,6 +180,9 @@ Blender 是一个开源的建模软件
    - [https://www.bilibili.com/video/av385242165](https://www.bilibili.com/video/av385242165)
    - [https://www.bilibili.com/video/av926436454](https://www.bilibili.com/video/av926436454)
    - [https://www.bilibili.com/video/av950602700](https://www.bilibili.com/video/av950602700)
+  
+ - 如果你不懂什么是骨骼、权重，请先学一下这个视频（虽然是某种搬运 AI 中文配音） 
+   - [https://www.bilibili.com/video/av27438407722/](https://www.bilibili.com/video/av27438407722/)
 
  - 比较系统的课
    - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
