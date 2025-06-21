@@ -173,28 +173,33 @@ Blender 是一个开源的建模软件
 #### Blender 教程
 
  - 先看这个速成一下，时间比较短
-   - [https://www.bilibili.com/video/av355541649](https://www.bilibili.com/video/av355541649)
+   - [【Blender】爆肝两个月！拜托三连了！这绝对是全B站最用心的（没有之一）Blender 3D建模零基础入门公开教程，耗时千余小时开发！](https://www.bilibili.com/video/av355541649)
 
  - Blender 界面介绍
-   - [https://www.bilibili.com/video/av113832639136668](https://www.bilibili.com/video/av113832639136668)
+   - [【Blender基本功】视图控制](https://www.bilibili.com/video/av114047521458279)
+   - [【Blender基本功】软件界面基础](https://www.bilibili.com/video/av113832639136668)
+   - [【Blender基本功】视图叠加层](https://www.bilibili.com/video/av114047521458279)
+   - [【Blender基本功】着色方式参数详解](https://www.bilibili.com/video/av114047521458279)
 
  - UV 和材质教程
-   - [https://www.bilibili.com/video/av385242165](https://www.bilibili.com/video/av385242165)
-   - [https://www.bilibili.com/video/av926436454](https://www.bilibili.com/video/av926436454)
-   - [https://www.bilibili.com/video/av950602700](https://www.bilibili.com/video/av950602700)
+   - [什么是UV展开](https://www.bilibili.com/video/av114639941798871/)
+   - [026 UV基础及常用操作](https://www.bilibili.com/video/av385242165)
+   - [Blender 2.8 UV贴图教学](https://www.bilibili.com/video/av926436454)
+   - [【Blender】3分钟掌握UV原理丨如何直接给模型涂色丨系列教程第三集](https://www.bilibili.com/video/av950602700)
   
  - 如果你不懂什么是骨骼、权重，请先学一下这个视频（虽然是某种搬运 AI 中文配音） 
-   - [https://www.bilibili.com/video/av27438407722/](https://www.bilibili.com/video/av27438407722/)
+   - [骨骼初学者教程（小白友好）｜Blender教程](https://www.bilibili.com/video/av114523105136618/)
 
  - 比较系统的课
-   - [https://www.bilibili.com/video/av112852916568795](https://www.bilibili.com/video/av112852916568795)
-   - [https://www.bilibili.com/video/av218387890](https://www.bilibili.com/video/av218387890)
+   - [B站最新最全的Blender4.1全套精讲课程！爆肝6个月！全免费观看！Blender 0基础入门课程这一套就够了！](https://www.bilibili.com/video/av112852916568795)
+   - [blender3.3完全入门教程(全集100集多持续更新中！)](https://www.bilibili.com/video/av218387890)
  
  - 理解 Blender 中的对象
-   - [https://www.bilibili.com/video/BV1KCPuegELm/](https://www.bilibili.com/video/BV1KCPuegELm/)
+   - [【Blender基本功】数据块 —— 面向对象建模](https://www.bilibili.com/video/av114047521458279/)
+   - [【Blender基本功】精准变换 —— 三维变换、游标、轴心、轴向、吸附、衰减编辑一集速通](https://www.bilibili.com/video/av114047521458279)
 
  - 辣椒酱系统课（需要深入 Blender 时看）
-   - [https://www.bilibili.com/video/av205836298](https://www.bilibili.com/video/av205836298)
+   - [【合集8.21已更新93话】Blender 2.9-3.4黑铁骑士Ⅱ系统零基础入门教程(持续更新+中文字幕+普通话+不敷衍+义务教育+案例+学习)](https://www.bilibili.com/video/av205836298)
 
 
 ### 游戏插件相关
