@@ -6,7 +6,7 @@ COM3D2 Chinese MOD Tutorial
 
 For other language users, just use [https://immersivetranslate.com/en/](https://immersivetranslate.com/en/)
 
-This is a browser plugin that allows you to use Google or AI translation, etc.
+That is a browser plugin that allows you to use Google or AI translation, etc.
 
 These documents are open source, and you are welcome to submit translations
 
