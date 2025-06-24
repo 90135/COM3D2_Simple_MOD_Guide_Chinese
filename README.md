@@ -353,8 +353,8 @@ Blender 是一个开源的建模软件
  - [zaj2001杂酱教程-视频](https://www.bilibili.com/video/BV1tu411R7TV/)
  - [BDFFZI教程-图文](https://bdffzi-blog.netlify.app/posts/2633666094)
  - [BDFFZI教程-视频](https://www.bilibili.com/video/BV148411i7uy/)
- - [zoobot移植教程备份（英文/不完整）](https://github.com/AbsoluteOmega/How-to-port-character-model-to-COM3D2)
- - [DA教程（图片简介中有网盘）](https://www.pixiv.net/artworks/105077558)
+ - [zoobot移植教程备份-图文（英文/不完整）](https://github.com/AbsoluteOmega/How-to-port-character-model-to-COM3D2)
+ - [DA教程-图文（图片简介中有网盘）](https://www.pixiv.net/artworks/105077558)
 
 ## 也可以看看其他仓库
 
