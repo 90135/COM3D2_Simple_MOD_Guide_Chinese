@@ -120,7 +120,6 @@ These documents are open source, and you are welcome to submit translations
 
  - ymk 老师的 QQ 群：1420125923
  - Discord 英文大群 [https://discord.gg/custommaid](https://discord.gg/custommaid)
- - Discord 没什么用的群 [https://discord.gg/XQVfcJWbPp](https://discord.gg/XQVfcJWbPp)
 
 <br>
 
